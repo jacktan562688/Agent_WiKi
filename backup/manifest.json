@@ -1,178 +1,203 @@
 {
   "format": 1,
   "scope": "full_wiki_including_chats",
-  "archive_sha256": "d1f246b8746766f06f0b7e660d1ddb0a91696d9b4978fe693340085031c6cd02",
-  "archive_bytes": 19676634,
+  "archive_sha256": "090393bccbc8e99dfe44a18422275dd1107b7faa018b3342cd4a05fbcaa6f091",
+  "archive_bytes": 22948037,
   "parts": [
     {
       "path": "wiki.zip.part0001",
       "bytes": 589824,
-      "sha256": "80bfb4244ff8ffdd46590ad65533a002d4ebe6c3abf75ea4d0cef946e5921e2c"
+      "sha256": "107c1a56e662e7f017370196c8204bb544714cd1f1fb31c54ec59e0d0238cda1"
     },
     {
       "path": "wiki.zip.part0002",
       "bytes": 589824,
-      "sha256": "cc7d93173182fa700d1d59e80dbaa5ca80cf434015a382d1a94aa8879a8deda9"
+      "sha256": "d8e66b3707744f912aea9562f206261f91227c7aa178578de30b8f561f9ea928"
     },
     {
       "path": "wiki.zip.part0003",
       "bytes": 589824,
-      "sha256": "cc3b181ffba32fb742f578b573f781c6de8fcf32cce6ead1d7bb01fe45ef4ba4"
+      "sha256": "2156de83512b418180989c9352118e3604fc76efce2a09ce14926227dc598dd5"
     },
     {
       "path": "wiki.zip.part0004",
       "bytes": 589824,
-      "sha256": "395dbb22c3ff9015800ec5c47ca1edbfb0d7f806b7392bcd140053e9ff7bf005"
+      "sha256": "8133e02bfbe5c764218641e755c77e850f3be4b1128c07f71bd7bd59ff459885"
     },
     {
       "path": "wiki.zip.part0005",
       "bytes": 589824,
-      "sha256": "2304027d9877a935f87ce335c4790a5cc4d2c81b4b02a2fe090b749352fa86a8"
+      "sha256": "8a7339b19c2205942027c398dce0691a2082e37ef30ba93ba2806ae31ee059d4"
     },
     {
       "path": "wiki.zip.part0006",
       "bytes": 589824,
-      "sha256": "4e16a333895f6a22a7d1ca1830280965232a10102609aad55494ba49a8e4bc00"
+      "sha256": "0457997b653dbaf4cfeca44662e677832bc0046b6170f805a3e43fcd3d30c1a9"
     },
     {
       "path": "wiki.zip.part0007",
       "bytes": 589824,
-      "sha256": "6890615d31bef2eb71ec995fd508ee496b36c3d1332c1c0254eeed5edc6974a2"
+      "sha256": "d19656d59eee2a3bf09210169be1004ea206589b9b5fc00b7b9f33c53c80ab6d"
     },
     {
       "path": "wiki.zip.part0008",
       "bytes": 589824,
-      "sha256": "9f4d0c5e3db2d8845114b771cbe61555caa04e0fb4a3456c4f193725b486ffa4"
+      "sha256": "6a96eac288a610d12760dd46d60df8eb46fc9a433658b7ad00c8073b69185b4f"
     },
     {
       "path": "wiki.zip.part0009",
       "bytes": 589824,
-      "sha256": "1f3824c81fa5934391f89907702d5c52f170245d459dbfff7748716e59951026"
+      "sha256": "f0f9c73baee00b7bdfb9ec6df99ae176f4388fc862025a931fbb4c7e2780b407"
     },
     {
       "path": "wiki.zip.part0010",
       "bytes": 589824,
-      "sha256": "7cf941e60889f7a6aa3177477a291c09eb37f4afd11a78231da2804c5902d694"
+      "sha256": "88fcfc2754349c4f03e48ddb64db94df33924c0a2fd7d5563079c646a7a60be1"
     },
     {
       "path": "wiki.zip.part0011",
       "bytes": 589824,
-      "sha256": "658348713ce0e4db3382c189d9c1229076506a91f199bf7dac79eebebb5389ad"
+      "sha256": "bf87d8d361c54af2b67bc4d5137842fdbb70de364104bc039f97f50f1710b338"
     },
     {
       "path": "wiki.zip.part0012",
       "bytes": 589824,
-      "sha256": "ccbb6b6adbf91f5ddc82b1218395a85df47ca08407b686d44cee85f6f9c2d45b"
+      "sha256": "19561351c082f87d9255336b336fc9a49687be00a65a8ae0879a98b646842fa4"
     },
     {
       "path": "wiki.zip.part0013",
       "bytes": 589824,
-      "sha256": "65ef63c684c93d684ee9605cac152e3a13ef01f318ce48e01fa51e5ee09f4ab3"
+      "sha256": "5544052adcb840ba319fb5ac671b23d95b98fa15dd1eefc145f8da50596662c0"
     },
     {
       "path": "wiki.zip.part0014",
       "bytes": 589824,
-      "sha256": "8548153bf8cfcbb6ce6feaeb510d8d758bc2c12122e566a2d5dfdb88a8d85f63"
+      "sha256": "de4a857af7cd8ea7255f01fee4e51540ddf79830bcb431720b07488361cb010e"
     },
     {
       "path": "wiki.zip.part0015",
       "bytes": 589824,
-      "sha256": "1a3d7ebd880cfce3f0e74d5c44582670819f8009b0a550ba3857e0ebb3c4f386"
+      "sha256": "726c0a957e9cd49cbe83a6aeac219ecbe6c22d901b2a534570f4ef8da43cb26a"
     },
     {
       "path": "wiki.zip.part0016",
       "bytes": 589824,
-      "sha256": "8d0c0e9331762d6de620ee68e7c903aef33836b35ea480585bec313e16a2e39a"
+      "sha256": "6b324ce3e8064724732e3116bddf6c2f271030c0000ba22cb4ce9ee65c39d0a5"
     },
     {
       "path": "wiki.zip.part0017",
       "bytes": 589824,
-      "sha256": "3bc72f0b3bd7f1a2c6ff442bc5571b362375f09b86a33e2194f0e89158fd20da"
+      "sha256": "4467c854f3f98018ad61550749b22e2061cd57957ccb9d97607e3ca2562ec309"
     },
     {
       "path": "wiki.zip.part0018",
       "bytes": 589824,
-      "sha256": "7e04a36aec74ff9e1291699e4e0d9c5fc1eb07ac24b96bf96730cdaf69c4c1ce"
+      "sha256": "55fc19f6cdb2130b9a7872bfd5450d5cf32c7bd82ae45415f3130757a528b03f"
     },
     {
       "path": "wiki.zip.part0019",
       "bytes": 589824,
-      "sha256": "7bde3e0d94b39bccd2c44d2b7a2ce4a89d7a14b9d4aeeaf824e00fcc5e518836"
+      "sha256": "419ab9153dfd4d863b3496e718b307fe0b37bf5850c8f5eed89083946633d1ea"
     },
     {
       "path": "wiki.zip.part0020",
       "bytes": 589824,
-      "sha256": "f2443ec7ce47d9e0913c96336475affcc0e29ffbb276692d1c1eddb3183b73fe"
+      "sha256": "c03ce54cf05322ddef35ce33396fb1943c4ee6f306a59e469f1119268bfb33c7"
     },
     {
       "path": "wiki.zip.part0021",
       "bytes": 589824,
-      "sha256": "1c53e73fa8f6c6761c51a6d1f51701165ff470caeb059d76c2927f19185d357a"
+      "sha256": "cac943c26f3d97639aff796eec94645e05a4757708b7b0d60e47904ff528577b"
     },
     {
       "path": "wiki.zip.part0022",
       "bytes": 589824,
-      "sha256": "f56467edd531981aaf9e67ac63ffe1a296cabe791463c0341f558d84d7dc088c"
+      "sha256": "23d34e6df58d89d8d6cdd68b7e14a65b0731c8bed90232e94f7e2daae1039c73"
     },
     {
       "path": "wiki.zip.part0023",
       "bytes": 589824,
-      "sha256": "13d8feb937c66edbf7ab5099cf1339e8528a908d46ec9282b06ae48536d112ec"
+      "sha256": "452a86a62168c47486156dfe5e3bdbd45665f4c07add3eea181aaf620171ff2d"
     },
     {
       "path": "wiki.zip.part0024",
       "bytes": 589824,
-      "sha256": "94f005b568371beef80e4aceaf305657e8952c629497677250bdd3b333c8a224"
+      "sha256": "d018e980cc1c782f6f462103d99e058fa2a74029c8d7cc653bd163571749160b"
     },
     {
       "path": "wiki.zip.part0025",
       "bytes": 589824,
-      "sha256": "89a10cc3ea25c8355b53bcb69d663aa803c934f8c4384c8fb254b597cfc20dee"
+      "sha256": "e4a0f8d3451c5862a0e5b0057d56c020dbdd51d760dae589736df7603e6fa69a"
     },
     {
       "path": "wiki.zip.part0026",
       "bytes": 589824,
-      "sha256": "b74b0d6787f9b119c5a2780ed55dab7c16fd2c44d8922b64ab1c43470f3bf74f"
+      "sha256": "e68206172306e7d08a3648e44b4af20585ad70de1a21e6d5461daba27cbfa319"
     },
     {
       "path": "wiki.zip.part0027",
       "bytes": 589824,
-      "sha256": "d360ec4a3eec78b418ede47413a851c291d89959d1b61d6a573a99006d18e26e"
+      "sha256": "b7c1e55e896b5871160ffe6c5e450d1c3801b2fdcd74c50853c86c5f83802209"
     },
     {
       "path": "wiki.zip.part0028",
       "bytes": 589824,
-      "sha256": "177a4c6447422c8af09d25f644a89698c2bb04a2055e292ae1f606c2b2fd21cd"
+      "sha256": "5ee4d4fae62a15d9df7b14728f30449f5728328a9a13b222ed532f01221b0beb"
     },
     {
       "path": "wiki.zip.part0029",
       "bytes": 589824,
-      "sha256": "fbe762081801b6ea3643fb9fc439bef69a10e3b4fe6635cbe5367b1e5dd7efd2"
+      "sha256": "8c9f2a7fcce0409ac24ca6e2f69d6a94c2b9bc7f465e8ad909d792259cefca0d"
     },
     {
       "path": "wiki.zip.part0030",
       "bytes": 589824,
-      "sha256": "e514f1a950fd20255053c55386d94814398c0cec72a02350703bb333a457cafc"
+      "sha256": "99e6711f51b6c7afa661869214b3648f8b8d8f9748d73b27c349072a2c8419a1"
     },
     {
       "path": "wiki.zip.part0031",
       "bytes": 589824,
-      "sha256": "996ecbc9b81a3c17732b1b227f76aef27cb7a4069a977bfbcb59fa2868f2d68e"
+      "sha256": "e456853575a22334e73a5011385ce983eed2d202c317f5d1f0ec98647d87d6aa"
     },
     {
       "path": "wiki.zip.part0032",
       "bytes": 589824,
-      "sha256": "1ad90507f05216267b41f8342d7b76b0d746b1dad0d602ae71f04e2cd5501753"
+      "sha256": "0f5f21b3a857d4237f0624aca7c6b11c487a657a56431848c26fe4f9d1c38631"
     },
     {
       "path": "wiki.zip.part0033",
       "bytes": 589824,
-      "sha256": "cddd6a37e35933515c750da5d9ef6066bcba33b5fc3a579007c9ed07e044ca73"
+      "sha256": "52479397ee79a455607ed6695d72406902b207baa13db4c2c3a101bf4f627dd4"
     },
     {
       "path": "wiki.zip.part0034",
-      "bytes": 212442,
-      "sha256": "14b6dfa336f4083fa60713a9eb74ae44610bd5e49467f94170b6c0ae161e7644"
+      "bytes": 589824,
+      "sha256": "beff510c3e5cd46ceff25f22df69edb39c82cbb73fe1dbf2cc2f5a6ace39bd40"
+    },
+    {
+      "path": "wiki.zip.part0035",
+      "bytes": 589824,
+      "sha256": "82ba9f1d515fbba182506248990bb6c6bb7df6dcd3551c93ef9200d20d5dc3a5"
+    },
+    {
+      "path": "wiki.zip.part0036",
+      "bytes": 589824,
+      "sha256": "996558fce0c332de79402134d387153b70000cf400874f68781ac1b9ead53947"
+    },
+    {
+      "path": "wiki.zip.part0037",
+      "bytes": 589824,
+      "sha256": "c1bbb025f16fcbfb972c4dbfc682b42ee3ceeac760376aa80ff221e17d8b6a79"
+    },
+    {
+      "path": "wiki.zip.part0038",
+      "bytes": 589824,
+      "sha256": "b94fab79401f8acffde49cdcd527d8218ef565299ddfd28d544277b1fe038db4"
+    },
+    {
+      "path": "wiki.zip.part0039",
+      "bytes": 534725,
+      "sha256": "3b0a943782fa563aaca6bb0b1d77513a40f219d61e4f7e6e7aa0babf24cb5b3d"
     }
   ],
   "files": [
@@ -223,8 +248,8 @@
     },
     {
       "path": ".obsidian/workspace.json",
-      "bytes": 7095,
-      "sha256": "744b0d3a2bab1a618ea776935852c55f4b1d9002d9ba9980b7f451562ac9460a"
+      "bytes": 7173,
+      "sha256": "ef2373dba9b38f3f7b83da71db68b2992ac67b3d6f32adf267a3d1d65dc165bb"
     },
     {
       "path": "01_专题/CRTC小车.md",
@@ -282,9 +307,39 @@
       "sha256": "5e0d86763126ee6aeb2374815bbf494572c3e49276450e9bcb294a8c0a7a2c92"
     },
     {
+      "path": "02_会话/#Filesmentionedbytheuser##分享一下Hermes最近的使用感想_3_Faustus_来自小红书网页版.jp.md",
+      "bytes": 64390,
+      "sha256": "530d7877ff5853f2d5cfee1034f9842ee38eb9f8a7a6efcad18a4eb03be2a1ac"
+    },
+    {
+      "path": "02_会话/[httpsgithub.comDietrichGebertponytail](httpsgithub.comDietrichGe.md",
+      "bytes": 68784,
+      "sha256": "8efb07acdd9d01455a0ddc94b19e0e3374627b4409cc1c77fc9fbd83c9670923"
+    },
+    {
+      "path": "02_会话/[httpsgithub.comKKKKhazixAIPM-Wikitreemain](httpsgithub.comKKKKha.md",
+      "bytes": 38940,
+      "sha256": "ce217a65dd1a354ba48ee852dc39e6497f2892aed82e4f39178bfd3e0db9777f"
+    },
+    {
+      "path": "02_会话/[httpsgithub.commattpocockskills](httpsgithub.commattpocockskills.md",
+      "bytes": 67437,
+      "sha256": "278923ca9d0a60240133509d4c9f5039b7437bb5932cc1877f7c0716721f19c9"
+    },
+    {
+      "path": "02_会话/[httpsgithub.commsitarzewskiagency-agents](httpsgithub.commsitarz.md",
+      "bytes": 157254,
+      "sha256": "7ec3f124c3bc4cd68bb371853dd714f2842031fe99baee47eb742a04ed3054c8"
+    },
+    {
+      "path": "02_会话/[httpsgithub.comobrasuperpowers](httpsgithub.comobrasuperpowers)安.md",
+      "bytes": 69608,
+      "sha256": "f95b1500fc392e7f22205a6cc5916a5aaed51ef5bada2ac6b81d5ff4edbae07e"
+    },
+    {
       "path": "02_会话/[httpsgithub.comYeachan-Heooh-my-codex](httpsgithub.comYeachan-He.md",
-      "bytes": 36215,
-      "sha256": "f6ae6160828e0e93b677c11e45a2df1c9d3ca097bba91f17aa96ede6f567a66b"
+      "bytes": 201143,
+      "sha256": "2fd48a675f8c1bd75cf9724073a1459cf5b74199175b727592ddbdc2caad733c"
     },
     {
       "path": "02_会话/AgentAutoloop后台蓝色选项试跑.md",
@@ -293,13 +348,13 @@
     },
     {
       "path": "02_会话/Codex技能安装与Python依赖配置.md",
-      "bytes": 77416,
-      "sha256": "6a51478fca038a0e95b196ea5c549d498c985e1fa2bcdc96685456999f40c48a"
+      "bytes": 77415,
+      "sha256": "80fae5a29a2fb1e8f64d4d33d8035dcdb4a1a6db97addbff536d6d66d3345013"
     },
     {
       "path": "02_会话/Codex聊天Wiki建立与跨模型调用.md",
-      "bytes": 51278,
-      "sha256": "868fe32b6509aa3de372b6218164dea3b930fb8e961b25f20bdb0e8da3e246d6"
+      "bytes": 202792,
+      "sha256": "0bce6d9a18e6603229c70dd90db55c58d441eb24f9c23dddf4b2906712425015"
     },
     {
       "path": "02_会话/ESP32双SG90串口控制与原接线保留.md",
@@ -352,19 +407,34 @@
       "sha256": "dfaeff06d64a927c1a6f0cb1125beba6a20af3cb8fccf7bacf599c3cc34e3da9"
     },
     {
+      "path": "02_会话/Read$OMX_TEAM_STATE_ROOTteamexplicitly-authorized-1e61fd52workers.md",
+      "bytes": 33868,
+      "sha256": "0ae596f73f9598f35eb4ee0af360c442213c2b73b0e75ddf84572e1d6c98a9b0"
+    },
+    {
+      "path": "02_会话/Read$OMX_TEAM_STATE_ROOTteamexplicitly-authorized-1e61fd52workers（2）.md",
+      "bytes": 32116,
+      "sha256": "a2b415599d127b1461c66018718f4c721db41b4e6b04060a2f54eb284b171ead"
+    },
+    {
       "path": "02_会话/ReplywithexactlyOMX-EXEC-OK.Donotuseanytoolsormodifyanyfiles.md",
       "bytes": 28529,
       "sha256": "f40afa916388fb5cb112eebe8eabbe17fca528c6eae89999922ca3cb22c27ddb"
     },
     {
       "path": "02_会话/RunanexplicitlyauthorizedOMXTEAMterminalsmoketestnow.Loadtheinsta.md",
-      "bytes": 30374,
-      "sha256": "548f7f64055f3ed24e960cb6480a30fe4cf55eea37a737ddee24855a907e8c7c"
+      "bytes": 30371,
+      "sha256": "6c65c6f4f514bb4ad1b07f686973e697a9582716dc9ec2e93113f3cc69b4fa8d"
     },
     {
       "path": "02_会话/RunanexplicitlyauthorizedOMXTEAMterminalsmoketestnow.Loadtheinsta（2）.md",
-      "bytes": 33385,
-      "sha256": "75be538955777ae1ba0fc57de3e7874ac4593b30426dc2ea5033c081e0f8d91b"
+      "bytes": 33382,
+      "sha256": "e61f91fd5f2d6c07338d73a0ad7f549820c1147107a92a1f2b2a50bf2aa4affa"
+    },
+    {
+      "path": "02_会话/RunanexplicitlyauthorizedOMXTEAMterminalsmoketestnow.Loadtheinsta（3）.md",
+      "bytes": 35543,
+      "sha256": "658ca34ab11d0902309b712cd49d62e99e58509ed0b669686fde6cdf985aa4d8"
     },
     {
       "path": "02_会话/SG90五连杆荧光时钟机械制作指导.md",
@@ -398,8 +468,8 @@
     },
     {
       "path": "02_会话/修复npm-v报错.md",
-      "bytes": 7084,
-      "sha256": "61f592f474cb3cb0b2ed422723851e8b702277160b4e99691042a54cc14c6703"
+      "bytes": 7083,
+      "sha256": "7f4270b81f189e8506e323b429e396ab060b203db994cf19e3de56a299608862"
     },
     {
       "path": "02_会话/军事特种船船体设计的第一性原理拆解.md",
@@ -483,8 +553,8 @@
     },
     {
       "path": "02_会话/安装并试跑agent-autoloop.md",
-      "bytes": 5580,
-      "sha256": "ac318d4b4d03f7dbc15d93d25c563fe2be2a56808020520a6c064df2c5e1369c"
+      "bytes": 5579,
+      "sha256": "047a25a6aba5570f89a26a2d4b69466590f3b6c8efb9cc76d46e7ce750ccb475"
     },
     {
       "path": "02_会话/完善ConQU电控组简历.md",
@@ -520,6 +590,16 @@
       "path": "02_会话/小贱钟零件图与拓竹A1打印调整.md",
       "bytes": 75259,
       "sha256": "a740cf87efa61ce2901a2c07fc6a3254ed48549288c43524d581f483b1c60196"
+    },
+    {
+      "path": "02_会话/待整理的历史会话.md",
+      "bytes": 2539,
+      "sha256": "d65904ef5bca2835c4356285fed5cd1ced07668d1478d23f3b46b6223a936c0a"
+    },
+    {
+      "path": "02_会话/我在安装hermess，出现了以下错误，应该如何解决：日志地址CUsersJackTanAppDataLocalhermeslog.md",
+      "bytes": 69572,
+      "sha256": "e97eaca6579d5f0bd616b5535a4c51424d3b156c1d29b80c94d71329fc3f6d23"
     },
     {
       "path": "02_会话/拍照识别剩余食材与菜谱匹配.md",
@@ -627,6 +707,11 @@
       "sha256": "13c9e9d1847978ac3aa15d7b8113740dee4a474c2691586f7381422affdbedce"
     },
     {
+      "path": "02_会话/自动采用子代理安装并分析这个skill[httpsgithub.commorlutorea](httpsgithub.commor.md",
+      "bytes": 68365,
+      "sha256": "7a9db3c8f6102ad2b34c993b121e606a8fc97fe9684c6a43d24a3e5a94ed7dd2"
+    },
+    {
       "path": "02_会话/自然与设计P1分工与T1计划.md",
       "bytes": 91553,
       "sha256": "dd04827b3bcf0bcd1d2864578e08c928847c36ef075b170e39a75c583a3cfc6b"
@@ -660,6 +745,36 @@
       "path": "02_会话/讲解麦轮小车电控文件.md",
       "bytes": 17683,
       "sha256": "48feafcae969dba12c67fe0e5e1a8303e78fe31c8dddb68243ff6b08d90aaf2f"
+    },
+    {
+      "path": "02_会话/请帮我检查这个Python函数有没有问题：defaverage(xs)returnsum(xs)len(xs)。请给出改进建议，并.md",
+      "bytes": 37727,
+      "sha256": "96524193e36444ecca1f126508cd13302c5305a40f09c8857456b5c553d07574"
+    },
+    {
+      "path": "02_会话/请根据我的对话记录，根据我的制作做一个产品汇报答辩的ppt：1.整个ppt的风格请严格按照苹果发布会的风格进行制作，包括UI设计、.md",
+      "bytes": 75355,
+      "sha256": "95131bc4176a88d70ed7290ef214c8a7146e311e66631a23b689441ecfc25936"
+    },
+    {
+      "path": "02_会话/请根据我的最新的大纲制作一个PPT用于课堂汇报，要求我能够根据ppt内容进行讲解，重点制作中间工程原理的部分，并且要让内容详尽，有.md",
+      "bytes": 102954,
+      "sha256": "9481bf872159ead022bd6575a2012a5a106039c8abe4e0267c3f3801dd841379"
+    },
+    {
+      "path": "02_会话/请检查下面Python函数的边界问题并给出修改建议：defaverage(xs)returnsum(xs)len(xs)。不要修改.md",
+      "bytes": 38829,
+      "sha256": "64e06c5ed4076936c04b7bc2662596daa88cc1de603941d7f3803b4d7af91a0b"
+    },
+    {
+      "path": "02_会话/请检视所有安装的skills，给所有的skills增加自动检查启动，我希望实现：首先从个人知识库中调用已有的个人数据，调用之后再根.md",
+      "bytes": 220853,
+      "sha256": "fcc8c4f3b9903f4fd378d0bde1cd0ff376f2e3267331336b4137ecd6d336786e"
+    },
+    {
+      "path": "02_会话/请每天第一次打开codes的时候自动读取AI-HOT网站的最新最热的1条推文，并进行总结，带入产品经理的角度帮助我进行分析与决策。.md",
+      "bytes": 45231,
+      "sha256": "18c72ad63b404c0d34e1f5fab19165157e7fd1154de2a06052183f0837770194"
     },
     {
       "path": "02_会话/读取菜谱并按剩余食材推荐菜肴.md",
@@ -745,6 +860,146 @@
       "path": "03_子任务/待整理的历史会话.md",
       "bytes": 823,
       "sha256": "abf2062548290b62b84848c51fde6e2084382783874cf93efce198c7200e1893"
+    },
+    {
+      "path": "03_子任务/待整理的历史会话（10）.md",
+      "bytes": 1658,
+      "sha256": "6feffd471da916d8c4524012532dcb0afab57721f36508bed1f76eb73a36febe"
+    },
+    {
+      "path": "03_子任务/待整理的历史会话（11）.md",
+      "bytes": 1254,
+      "sha256": "6c434d1c289d5330e2dedb9926c2d1e533b6ce72dd9b8211be9a7534a50c841e"
+    },
+    {
+      "path": "03_子任务/待整理的历史会话（12）.md",
+      "bytes": 1090,
+      "sha256": "72ddb347f35e1783da8b7088132c2f92d9533284814cc55c97522a0421eea23b"
+    },
+    {
+      "path": "03_子任务/待整理的历史会话（13）.md",
+      "bytes": 1022,
+      "sha256": "5cb050242523005ec2e7586d0ef52d3c3820a1674c655fa0e799f3f06f3ad490"
+    },
+    {
+      "path": "03_子任务/待整理的历史会话（14）.md",
+      "bytes": 1224,
+      "sha256": "ba11d540d7cd77b463ac34dbab16a54d2fa89d756d655e93d7bee0de3d59cc57"
+    },
+    {
+      "path": "03_子任务/待整理的历史会话（15）.md",
+      "bytes": 1414,
+      "sha256": "b4987a113d46b126883e7b448f5033d54822230ad66a1c1b4339c78d0c8b8eb0"
+    },
+    {
+      "path": "03_子任务/待整理的历史会话（16）.md",
+      "bytes": 833,
+      "sha256": "2b30eabdc335b6436443613d5d9b8e64c477ae01ffc737d5a76e4852a1b099e3"
+    },
+    {
+      "path": "03_子任务/待整理的历史会话（17）.md",
+      "bytes": 860,
+      "sha256": "2e365d36469ec8a341cc722934850373efaa6509e3eb03cd45e0c06c9ab06e8b"
+    },
+    {
+      "path": "03_子任务/待整理的历史会话（18）.md",
+      "bytes": 739,
+      "sha256": "27c76026950f78353ef00be41085d8bbdb93c8cddb1cee79d24e6714deb1493f"
+    },
+    {
+      "path": "03_子任务/待整理的历史会话（19）.md",
+      "bytes": 739,
+      "sha256": "810294fa8cf987b318ce2d633cccf8099353ae09998d23924c4896aa6ec5bb56"
+    },
+    {
+      "path": "03_子任务/待整理的历史会话（20）.md",
+      "bytes": 741,
+      "sha256": "dd8307bc0e2a3fe4a298010aad7cf85cb55eb0bf43c635952e02d71ce9dc3839"
+    },
+    {
+      "path": "03_子任务/待整理的历史会话（21）.md",
+      "bytes": 741,
+      "sha256": "306a289280aed8822d5ae6c7970b09c566708515c491f951c8e1e407e47277bc"
+    },
+    {
+      "path": "03_子任务/待整理的历史会话（22）.md",
+      "bytes": 863,
+      "sha256": "632fa390261356d974e2dad01f91fa3f81805d9dd46a209b015d6e5e5b6f8d10"
+    },
+    {
+      "path": "03_子任务/待整理的历史会话（23）.md",
+      "bytes": 1608,
+      "sha256": "5bab2b35f9176d572f578eb121913e70c4c37ef76895a4209ba3503570debaba"
+    },
+    {
+      "path": "03_子任务/待整理的历史会话（24）.md",
+      "bytes": 3695,
+      "sha256": "7610bea8b629ee335e8548fe5aa68e52f1f63b3ea8a3ae5ddf6c7e17ca937af1"
+    },
+    {
+      "path": "03_子任务/待整理的历史会话（25）.md",
+      "bytes": 4055,
+      "sha256": "3ca93cbbc8f88a2a523509623a79428379158c5d8c6db62b4cf210869c71f2ac"
+    },
+    {
+      "path": "03_子任务/待整理的历史会话（26）.md",
+      "bytes": 5015,
+      "sha256": "8d34561a25cd0e313d3bee9fc3de56a1f8f16e2e86b344de7a24d3d5b8946f2f"
+    },
+    {
+      "path": "03_子任务/待整理的历史会话（27）.md",
+      "bytes": 3043,
+      "sha256": "e99371d455cdd0d215c3d684dc2da93143fe922454ac9ca00f4bff5e4b24951d"
+    },
+    {
+      "path": "03_子任务/待整理的历史会话（28）.md",
+      "bytes": 3313,
+      "sha256": "f7f5f13f57e27e73fc05dcb64d9f180dd574c5724e727465b093ceecbc7a9112"
+    },
+    {
+      "path": "03_子任务/待整理的历史会话（29）.md",
+      "bytes": 897,
+      "sha256": "4ce43d27f5a2e53fc07826e5783778f179921724bb44c7eb9299aa39d4f700da"
+    },
+    {
+      "path": "03_子任务/待整理的历史会话（2）.md",
+      "bytes": 7184,
+      "sha256": "45a4b8db59617ed91a2d22a30e39358098e45bca8de182833cea14d8c8f1531e"
+    },
+    {
+      "path": "03_子任务/待整理的历史会话（3）.md",
+      "bytes": 3669,
+      "sha256": "3da532be2a3f260050447b05a9dced098df7095566cdf0991509f1b9107e37c6"
+    },
+    {
+      "path": "03_子任务/待整理的历史会话（4）.md",
+      "bytes": 5046,
+      "sha256": "2cb2141b26ea4f6f439ac63a54ff00354252986f17ae09a0d524b86290e63073"
+    },
+    {
+      "path": "03_子任务/待整理的历史会话（5）.md",
+      "bytes": 2639,
+      "sha256": "74c51af6b1ecc9d54b5da32cca7de95b6b20d3abb3166f32d07ba6f2c1aa701c"
+    },
+    {
+      "path": "03_子任务/待整理的历史会话（6）.md",
+      "bytes": 835,
+      "sha256": "2ea1417867428e8eb42f52be0778bc336a4a308f3e5ea553498ed9436083d185"
+    },
+    {
+      "path": "03_子任务/待整理的历史会话（7）.md",
+      "bytes": 1002,
+      "sha256": "710f2353849f18723427f68e75dd5d8fef208feba489d5491a3bca0cee145cc0"
+    },
+    {
+      "path": "03_子任务/待整理的历史会话（8）.md",
+      "bytes": 1822,
+      "sha256": "55433aecdf3a47827d8abcf6e18548a1c96f035c1c09797401c6b6972a7dde6d"
+    },
+    {
+      "path": "03_子任务/待整理的历史会话（9）.md",
+      "bytes": 2333,
+      "sha256": "28e8bdced68670861b43fc2f2ce4dcd9d9f1295fed85cc1cbc7a80d99cd83db1"
     },
     {
       "path": "03_子任务/操作审查：Autoloop旧进程停止与新版加载.md",
@@ -1292,9 +1547,39 @@
       "sha256": "7776ce7a667d817d68bde781cd60f7211bb1cad85b4715e4a694ef926ba42265"
     },
     {
+      "path": "05_会话卡片/#Filesmentionedbytheuser##分享一下Hermes最近的使用感想_3_Faustus_来自小红书网页版.jp.md",
+      "bytes": 16186,
+      "sha256": "94d78ece0a0d3057a693f0658f95c32ef5600f1ba466958909bbde87cbe49a62"
+    },
+    {
+      "path": "05_会话卡片/[httpsgithub.comDietrichGebertponytail](httpsgithub.comDietrichGe.md",
+      "bytes": 2080,
+      "sha256": "f25c8dbdfdd6d5df8b17ea7db305eb49e8d4145cac2135cea2419972b1987c87"
+    },
+    {
+      "path": "05_会话卡片/[httpsgithub.comKKKKhazixAIPM-Wikitreemain](httpsgithub.comKKKKha.md",
+      "bytes": 1989,
+      "sha256": "482c516ce2f0d25ed37a244291cb9bb075ad9708280d42b3ce9fbc86fe408aec"
+    },
+    {
+      "path": "05_会话卡片/[httpsgithub.commattpocockskills](httpsgithub.commattpocockskills.md",
+      "bytes": 3911,
+      "sha256": "b8968ff1469603af527ae67523a75f1fab21d7ee1672a21ddfca263d67284ff2"
+    },
+    {
+      "path": "05_会话卡片/[httpsgithub.commsitarzewskiagency-agents](httpsgithub.commsitarz.md",
+      "bytes": 2787,
+      "sha256": "a99af4ab356c8b6b6adc5736fcee0c21f98730745aef6a9dcc0e03b9d9881d30"
+    },
+    {
+      "path": "05_会话卡片/[httpsgithub.comobrasuperpowers](httpsgithub.comobrasuperpowers)安.md",
+      "bytes": 4096,
+      "sha256": "88ae99440fb57503ae1bb8b1cd11634f0b316e8679da343abcd9a4b80d93b27c"
+    },
+    {
       "path": "05_会话卡片/[httpsgithub.comYeachan-Heooh-my-codex](httpsgithub.comYeachan-He.md",
-      "bytes": 2143,
-      "sha256": "479e3a3bcf873076997d1fe146f46c74916008a8278eb8a230a0474254dd1b64"
+      "bytes": 1160,
+      "sha256": "7a4a8f9b7f68f2b37e76eee1f240fdf1d1844cf16df5aa3782314d57bb27b0a3"
     },
     {
       "path": "05_会话卡片/AgentAutoloop后台蓝色选项试跑.md",
@@ -1308,8 +1593,8 @@
     },
     {
       "path": "05_会话卡片/Codex聊天Wiki建立与跨模型调用.md",
-      "bytes": 1233,
-      "sha256": "0703a893a42d082d0292729356bff9bc9689dcc2dd678be7a957b806978a8dea"
+      "bytes": 1293,
+      "sha256": "92e4a5ae17d162827a7663a982703f94a8d658698416d4df102879b5ed9f190a"
     },
     {
       "path": "05_会话卡片/ESP32双SG90串口控制与原接线保留.md",
@@ -1362,6 +1647,16 @@
       "sha256": "4e8824a6fc67d186d2ab554bff8efa8a4f70eb3a7d7dfa63627cb27af1b90274"
     },
     {
+      "path": "05_会话卡片/Read$OMX_TEAM_STATE_ROOTteamexplicitly-authorized-1e61fd52workers.md",
+      "bytes": 993,
+      "sha256": "202374eddd59957e8df3c283a1541da4b0e02178a2d0790e58c5fd61d68725c8"
+    },
+    {
+      "path": "05_会话卡片/Read$OMX_TEAM_STATE_ROOTteamexplicitly-authorized-1e61fd52workers（2）.md",
+      "bytes": 815,
+      "sha256": "0762d729cf3ad679f4466f801692d68d10dded24875a924cb8a41616e571e7cc"
+    },
+    {
       "path": "05_会话卡片/ReplywithexactlyOMX-EXEC-OK.Donotuseanytoolsormodifyanyfiles.md",
       "bytes": 421,
       "sha256": "6a747b3b38fc198c68c3e88a7a2548188f2df378d33e0141b8bdf5dbc7037e64"
@@ -1375,6 +1670,11 @@
       "path": "05_会话卡片/RunanexplicitlyauthorizedOMXTEAMterminalsmoketestnow.Loadtheinsta（2）.md",
       "bytes": 879,
       "sha256": "2227faccd7d699bbaca2d9c01da9c8acf59d3972f2f877c6e7c49e7d3055d0fd"
+    },
+    {
+      "path": "05_会话卡片/RunanexplicitlyauthorizedOMXTEAMterminalsmoketestnow.Loadtheinsta（3）.md",
+      "bytes": 985,
+      "sha256": "e2ae2328b8ed8eb3c30eaf14135eb84b9b2f92e8f6eccc4d06d2dffe9b525487"
     },
     {
       "path": "05_会话卡片/SG90五连杆荧光时钟机械制作指导.md",
@@ -1532,6 +1832,16 @@
       "sha256": "05b20cc396980e8f3dedd0f505ed59ac93050967300e89f1ea09b60c9ef51c08"
     },
     {
+      "path": "05_会话卡片/待整理的历史会话.md",
+      "bytes": 264,
+      "sha256": "eff69d76a2de2fa3e4e1c41d3163026f72f33152b285176e55f74570d91a108d"
+    },
+    {
+      "path": "05_会话卡片/我在安装hermess，出现了以下错误，应该如何解决：日志地址CUsersJackTanAppDataLocalhermeslog.md",
+      "bytes": 1471,
+      "sha256": "bc84187c49c34770faea72ae9dfa96a5f59f705e5f7ceaa3dc182ab983f202b2"
+    },
+    {
       "path": "05_会话卡片/拍照识别剩余食材与菜谱匹配.md",
       "bytes": 294,
       "sha256": "c512c49c2e270bde8a9b4a043237c4d00f58cc4bbba94ed77015e2222d7c32ad"
@@ -1637,6 +1947,11 @@
       "sha256": "f462d992d692acb2e0877fcf0b0718b1c8a8ff512fff4bebb7881fefaedd4ec4"
     },
     {
+      "path": "05_会话卡片/自动采用子代理安装并分析这个skill[httpsgithub.commorlutorea](httpsgithub.commor.md",
+      "bytes": 1344,
+      "sha256": "9faab0649d6c0f108edb2a094b3ccc07f365ad3d2434c6a85fd25b207a6d743f"
+    },
+    {
       "path": "05_会话卡片/自然与设计P1分工与T1计划.md",
       "bytes": 1546,
       "sha256": "cbae7b5b6cfc811bc6f2d8270403ed8b59280227cad6557336e1541bad6458cc"
@@ -1672,6 +1987,36 @@
       "sha256": "320fc04323bdd85e14a2a871f162f932ed8534b4ba9f46b8987abc63a463ef73"
     },
     {
+      "path": "05_会话卡片/请帮我检查这个Python函数有没有问题：defaverage(xs)returnsum(xs)len(xs)。请给出改进建议，并.md",
+      "bytes": 1971,
+      "sha256": "29b38c31a196a0e09b86089a75d90d89860a5889e325ee3162ec2e9ec5a52c24"
+    },
+    {
+      "path": "05_会话卡片/请根据我的对话记录，根据我的制作做一个产品汇报答辩的ppt：1.整个ppt的风格请严格按照苹果发布会的风格进行制作，包括UI设计、.md",
+      "bytes": 2214,
+      "sha256": "c00e9fc2ffd93d40d4d68be3477af024d08bbe3e7bb288811886292e33737e47"
+    },
+    {
+      "path": "05_会话卡片/请根据我的最新的大纲制作一个PPT用于课堂汇报，要求我能够根据ppt内容进行讲解，重点制作中间工程原理的部分，并且要让内容详尽，有.md",
+      "bytes": 8147,
+      "sha256": "fa61d5a75aa5502e9453b7051ec877d787d2bc14043e27d1af375e57d36c3a28"
+    },
+    {
+      "path": "05_会话卡片/请检查下面Python函数的边界问题并给出修改建议：defaverage(xs)returnsum(xs)len(xs)。不要修改.md",
+      "bytes": 2958,
+      "sha256": "9312b19eb07c7e80f2dbbe062165f0c8f738e958871c95c89154678977eec1a9"
+    },
+    {
+      "path": "05_会话卡片/请检视所有安装的skills，给所有的skills增加自动检查启动，我希望实现：首先从个人知识库中调用已有的个人数据，调用之后再根.md",
+      "bytes": 1778,
+      "sha256": "cf828855955c24307079c6dcf8c513af05fb9024a5435c3e027dd4d5729f71d6"
+    },
+    {
+      "path": "05_会话卡片/请每天第一次打开codes的时候自动读取AI-HOT网站的最新最热的1条推文，并进行总结，带入产品经理的角度帮助我进行分析与决策。.md",
+      "bytes": 7598,
+      "sha256": "198c84cc0870a957101f4447d42350cce82cc959c46507705b03bee110c7d3ed"
+    },
+    {
       "path": "05_会话卡片/读取菜谱并按剩余食材推荐菜肴.md",
       "bytes": 300,
       "sha256": "6252c8ffa459a7ba6210b0f72d1c38e1317d20b90a33a7191045b37d669e5542"
@@ -1688,8 +2033,8 @@
     },
     {
       "path": "06_Memory/.memory-index.json",
-      "bytes": 29728,
-      "sha256": "85a02394d809ebba44d3b824b762cea4d0de094d18f414267095d2508801db95"
+      "bytes": 38076,
+      "sha256": "75d8ee490a4bf5299e750004f144fe45947c47284a1da6c17ed20fa6ec869dc4"
     },
     {
       "path": "06_Memory/L1/CRTC小车：CRTC_小车.md",
@@ -1882,9 +2227,39 @@
       "sha256": "7e01ed25fb9d5932c55ad44f150be6bd6f6a2cebbc95b42c2de92f05968bc898"
     },
     {
+      "path": "06_Memory/L2/#_Files_mentioned_by_the_user___##_分享一下Hermes最近的使用感想_3_Faustus_来自小红书网页版.jpg__D__下载_分享.md",
+      "bytes": 7576,
+      "sha256": "b1578acc63750f9a3735269bf9768d61decd666ad0ebf75e1469ce2431feb79e"
+    },
+    {
+      "path": "06_Memory/L2/[https___github.com_DietrichGebert_ponytail](https___github.com_DietrichGebert_ponyta.md",
+      "bytes": 1992,
+      "sha256": "bc57902eb0fadcc9b5cc43e56276705d945716d68ead4970661a2ba66078bb20"
+    },
+    {
+      "path": "06_Memory/L2/[https___github.com_KKKKhazix_AIPM-Wiki_tree_main](https___github.com_KKKKhazix_AIPM-.md",
+      "bytes": 3398,
+      "sha256": "3ed7c2d40980f4d1b7fbf107ee8cc52f4b6f5b146bbf4b6b7f70034beb08fd11"
+    },
+    {
+      "path": "06_Memory/L2/[https___github.com_mattpocock_skills](https___github.com_mattpocock_skills)安装这个skill.md",
+      "bytes": 2282,
+      "sha256": "b22e117c8b2b32d1ff0a13cc08f792dcbda16bf45310f9a628009db73a84cf85"
+    },
+    {
+      "path": "06_Memory/L2/[https___github.com_msitarzewski_agency-agents](https___github.com_msitarzewski_agenc.md",
+      "bytes": 3015,
+      "sha256": "596354ef4d8ac6631b3eda2e09bab16a64ff671ff358a5a003e2ca73212e9f3b"
+    },
+    {
+      "path": "06_Memory/L2/[https___github.com_obra_superpowers](https___github.com_obra_superpowers)安装上面这个项目并分析.md",
+      "bytes": 2361,
+      "sha256": "957c335f69b10528c67ada16a1554990c72f94bcc672701ce7d853859454eafa"
+    },
+    {
       "path": "06_Memory/L2/[https___github.com_Yeachan-Heo_oh-my-codex](https___github.com_Yeachan-Heo_oh-my-cod.md",
-      "bytes": 1870,
-      "sha256": "3dace35322808de55e11948b4cdb5b9798b9625f5518e6d08f4f3b0257fc8bb5"
+      "bytes": 2026,
+      "sha256": "7430373b951e94d4217d33e471abb17af6cd2b95313911b581b9af93ff4ae984"
     },
     {
       "path": "06_Memory/L2/Agent_Autoloop后台蓝色选项试跑.md",
@@ -1898,8 +2273,8 @@
     },
     {
       "path": "06_Memory/L2/Codex聊天Wiki建立与跨模型调用.md",
-      "bytes": 1725,
-      "sha256": "1181283d86f91d798b61b58ca435912edb1c84e68e7e65d7a2afe675ccf8102e"
+      "bytes": 1544,
+      "sha256": "c3f7513a7be9278d3d5250271740afbe7cda391abcc189d5091f05e62f702d58"
     },
     {
       "path": "06_Memory/L2/CRTC小车.md",
@@ -1962,6 +2337,16 @@
       "sha256": "0a4152757af64205df4db25bbbe9adbf9edea25794d8eb8ddd31d31108408602"
     },
     {
+      "path": "06_Memory/L2/Read_$OMX_TEAM_STATE_ROOT_team_explicitly-authorized-1e61fd52_workers_worker-1_inbox..md",
+      "bytes": 2025,
+      "sha256": "61d4a8c044af07d30a7be004d3043724bb8b4857d879726c3a8d0980da288c45"
+    },
+    {
+      "path": "06_Memory/L2/Read_$OMX_TEAM_STATE_ROOT_team_explicitly-authorized-1e61fd52_workers_worker-2_inbox..md",
+      "bytes": 2189,
+      "sha256": "bfe4e48d465f77f729aebcfacebbf1e49273ce40b3fb5454ab58d14601de07b7"
+    },
+    {
       "path": "06_Memory/L2/Reply_with_exactly_OMX-EXEC-OK._Do_not_use_any_tools_or_modify_any_files.md",
       "bytes": 1414,
       "sha256": "3f3bbf9c98f4b581b0c66f151ad93a9ff2aec83b06b4db2b748ff5d794ab3001"
@@ -1975,6 +2360,11 @@
       "path": "06_Memory/L2/Run_an_explicitly_authorized_OMX_TEAM_terminal_smoke_test_now._Load_the_installed_tea（2）.md",
       "bytes": 3284,
       "sha256": "1f00be9b19543bd92c79198d32338fa7c8bf44070bcb3a2411c60586c2525be2"
+    },
+    {
+      "path": "06_Memory/L2/Run_an_explicitly_authorized_OMX_TEAM_terminal_smoke_test_now._Load_the_installed_tea（3）.md",
+      "bytes": 3158,
+      "sha256": "ae1c97ed1edacccc266f4a9229260fed4e48e1515a30cdecb07eeac957cd3866"
     },
     {
       "path": "06_Memory/L2/SG90五连杆荧光时钟机械制作指导.md",
@@ -2152,6 +2542,16 @@
       "sha256": "c826b60cd79eda8cf6b6a672ff653f90b164e54a8fbd47093d139fc3b50a2881"
     },
     {
+      "path": "06_Memory/L2/待整理的历史会话.md",
+      "bytes": 2830,
+      "sha256": "c59246d518d04e3eec26c999aaa7fcb84d84f0568fe023d3a52f26f7ce1d5a9c"
+    },
+    {
+      "path": "06_Memory/L2/我在安装hermess，出现了以下错误，应该如何解决：日志地址__C__Users_JackTan_AppData_Local_hermes_logs___，诊断好后请给.md",
+      "bytes": 2744,
+      "sha256": "05eafe7f4f4da3dceaa1ebc87bbded9d135a4d757978ce4da62cb6ce2de9ab93"
+    },
+    {
       "path": "06_Memory/L2/拍照识别剩余食材与菜谱匹配.md",
       "bytes": 1155,
       "sha256": "454d85d2cf97d261ee3b1498cd92e0387a817f5eb0f85d789158a5c1f2cf610b"
@@ -2262,6 +2662,11 @@
       "sha256": "d8274465604a164357deb7cba9692c130e93402301178858d1807cc6e6513d3c"
     },
     {
+      "path": "06_Memory/L2/自动采用子代理安装并分析这个skill[https___github.com_morluto_rea](https___github.com_morluto_rea).md",
+      "bytes": 2451,
+      "sha256": "60ee644a7153a3d42b6e8f65249ce3658afb0f09d9c196344f746c261c926108"
+    },
+    {
       "path": "06_Memory/L2/自然与设计.md",
       "bytes": 2580,
       "sha256": "b29cc69b54d22f3546d7bf6c223d510403d79d57939b9802a911bedd1ba5c53f"
@@ -2302,6 +2707,36 @@
       "sha256": "481e174488270e85d9b40c9a58f6190c1276e367ec0eaab6f8a0cd722b9d0213"
     },
     {
+      "path": "06_Memory/L2/请帮我检查这个_Python_函数有没有问题：def_average(xs)__return_sum(xs)___len(xs)。请给出改进建议，并列出你实际读取过的角色.md",
+      "bytes": 3351,
+      "sha256": "09dbf232e29327e867fa89f8e3aaa44e3834c3c44d5c45cfe1508b6cd5e174e7"
+    },
+    {
+      "path": "06_Memory/L2/请根据我的对话记录，根据我的制作做一个产品汇报答辩的ppt：_1.整个ppt的风格请严格按照苹果发布会的风格进行制作，包括UI设计、转场动画等；_2.我对产品的定位为家庭.md",
+      "bytes": 3439,
+      "sha256": "119666490b4dfa2d9cfb17c44b3c5131e2aed04877fc7a975b8f8beeaa6b0f0d"
+    },
+    {
+      "path": "06_Memory/L2/请根据我的最新的大纲制作一个PPT用于课堂汇报，要求我能够根据ppt内容进行讲解，重点制作中间工程原理的部分，并且要让内容详尽，有配图，PPT视效美观，高大尚.md",
+      "bytes": 7605,
+      "sha256": "d33d0da06212895765a9eaa5ba41e34f869e91e7c36e4eb9841f58a48723bb86"
+    },
+    {
+      "path": "06_Memory/L2/请检查下面_Python_函数的边界问题并给出修改建议：def_average(xs)__return_sum(xs)___len(xs)。不要修改文件。请在回答末尾列出.md",
+      "bytes": 4338,
+      "sha256": "3b586115bc8f911a5a8d117f849fbce11d11c4fee4cd6297693c1f2a72b2e0bc"
+    },
+    {
+      "path": "06_Memory/L2/请检视所有安装的skills，给所有的skills增加自动检查启动，我希望实现：首先从个人知识库中调用已有的个人数据，调用之后再根据任务情况自动调用相应的skills实现.md",
+      "bytes": 2806,
+      "sha256": "47efc3f7561f2b4700a7faf0776375126e2a85638c5b7c54ffac46e4908f945d"
+    },
+    {
+      "path": "06_Memory/L2/请每天第一次打开codes的时候自动读取AI-HOT网站的最新最热的1条推文，并进行总结，带入产品经理的角度帮助我进行分析与决策。并补上今天的.md",
+      "bytes": 6665,
+      "sha256": "61a21e66ba88409a21296efebe8df6aa90cf1fc361765b7f303ce3b6d0eb4e19"
+    },
+    {
       "path": "06_Memory/L2/读取菜谱并按剩余食材推荐菜肴.md",
       "bytes": 1309,
       "sha256": "b1bbf833a88160310236b08785a4a7e5d643ed47e8628b2b4ca97ea0f7032c75"
@@ -2324,17 +2759,17 @@
     {
       "path": "06_Memory/插件状态.md",
       "bytes": 230,
-      "sha256": "85276375e84daf926645d990231c04a400971c32889a0cd9917bd8854f1eea91"
+      "sha256": "ee0aee1de8656ad1c95d0329aa3cb68298f86f1acf2ac9c5cc436f2c9c9296a7"
     },
     {
       "path": "06_Memory/记忆首页.md",
-      "bytes": 12711,
-      "sha256": "7a6595ddcf206954f2b86ed441f004a59581f8c7d56ad0451096332be3768aa3"
+      "bytes": 18609,
+      "sha256": "dbc412c6cacb8bb5bcf0c6e5d45f2e68717a5027484a9b55291f0e6cf3922383"
     },
     {
       "path": "07_工具与技能/catalog.json",
-      "bytes": 2213255,
-      "sha256": "acb00fb1c77bd96d9c171db392c84a8b9c5422047f3c0e0ca4dac0d73f18c27c"
+      "bytes": 2214458,
+      "sha256": "fcb952d8ed3e2d1087aa374f885ef31a240241eb18883b47ef23e8a9f5d0a748"
     },
     {
       "path": "07_工具与技能/README.md",
@@ -2348,8 +2783,8 @@
     },
     {
       "path": "07_工具与技能/目录.md",
-      "bytes": 1216199,
-      "sha256": "f09b3a59d7481e073470b4a516691b76280639900d7823e80ec98c57b5a3d26b"
+      "bytes": 1216940,
+      "sha256": "1d8776ef4720b0953750bad06ff741f2bc5a5032d34fdaf49df63ab5ba3b59d1"
     },
     {
       "path": "AGENTS.md",
@@ -2368,8 +2803,8 @@
     },
     {
       "path": "data/manifest.json",
-      "bytes": 111255,
-      "sha256": "91d6188b0b41f0ecdb50120b2330e4e2dcfd0f3ef0008b170a07750aba8d9926"
+      "bytes": 159638,
+      "sha256": "561e6bfbe5a93ebb656f425d3b4b98767f1e6e736025f6ce89daa0fd9297d728"
     },
     {
       "path": "data/manifest_before_rename.json",
@@ -2383,13 +2818,13 @@
     },
     {
       "path": "data/search.sqlite",
-      "bytes": 7938048,
-      "sha256": "abdeeec219b2603d5eff78d07e7b9eb0cfc874420b81623f0035a92aa12552b6"
+      "bytes": 9695232,
+      "sha256": "7b2ed98f8fdd291be55975bde43d10ce6b4dde4bff86adae4bae2117a1b745e4"
     },
     {
       "path": "data/stats.json",
-      "bytes": 231,
-      "sha256": "86f724c9f30e1537e7ec6aaec1de4b1ba89778ef8d6ff63cd1a637739a8f8981"
+      "bytes": 233,
+      "sha256": "ae8b06639e95ffdcdaddcd736205a369de26df34965064647b10873fb6de54d0"
     },
     {
       "path": "imports/README.md",
@@ -2423,8 +2858,8 @@
     },
     {
       "path": "local_memory/data/memory.sqlite",
-      "bytes": 30326784,
-      "sha256": "249170b5f0b743a49c6c907d90a1d0ad3350878dcae294a73a67fe343911261d"
+      "bytes": 36433920,
+      "sha256": "a16d671f75084b52690a127430798eaf194801d8099a244a6ef638081bc8f2a9"
     },
     {
       "path": "local_memory/data/recall_evaluation.json",
@@ -2582,9 +3017,39 @@
       "sha256": "12ba6e38745a042811245d66563a02f0745a376b948002893a1ee6830a2bca98"
     },
     {
+      "path": "local_memory/exports/personal/L2_#_Files_mentioned_by_the_user___##_分享一下Hermes最近的使用感想_3_Faustus_来自小红书网页版.jpg__D__下载_分享.md",
+      "bytes": 6667,
+      "sha256": "b40c3668fce7b375973d668be995a2f5bd1a3bfe3e3b90ba94bf0741af367ba2"
+    },
+    {
+      "path": "local_memory/exports/personal/L2_[https___github.com_DietrichGebert_ponytail](https___github.com_DietrichGebert_ponyta.md",
+      "bytes": 1253,
+      "sha256": "0156ab09cbc24b19d82407e2de32db6ac01f67086f89ca990eafa1f1004125f2"
+    },
+    {
+      "path": "local_memory/exports/personal/L2_[https___github.com_KKKKhazix_AIPM-Wiki_tree_main](https___github.com_KKKKhazix_AIPM-.md",
+      "bytes": 2506,
+      "sha256": "2d2420b0a8e374f40adf649e35b73526831cdec4a40090a94967233cc1c99904"
+    },
+    {
+      "path": "local_memory/exports/personal/L2_[https___github.com_mattpocock_skills](https___github.com_mattpocock_skills)安装这个skill.md",
+      "bytes": 1561,
+      "sha256": "c6f2ffbef7f49f3fae9537ba596e1d93bc79992217dc9e19299d1ea031b955df"
+    },
+    {
+      "path": "local_memory/exports/personal/L2_[https___github.com_msitarzewski_agency-agents](https___github.com_msitarzewski_agenc.md",
+      "bytes": 2196,
+      "sha256": "11428296281f3edc611a1f9d59e3ca2e98090b41eb531f2affc042419cdfda81"
+    },
+    {
+      "path": "local_memory/exports/personal/L2_[https___github.com_obra_superpowers](https___github.com_obra_superpowers)安装上面这个项目并分析.md",
+      "bytes": 1654,
+      "sha256": "ce3986e805cf786ce80cd1cc685bb18aebcc043bced833c58c10e28df037060c"
+    },
+    {
       "path": "local_memory/exports/personal/L2_[https___github.com_Yeachan-Heo_oh-my-codex](https___github.com_Yeachan-Heo_oh-my-cod.md",
-      "bytes": 1151,
-      "sha256": "a29bca342b262d76017055f70b4739d154c8364f222fd69cb881d94ebb3dcfac"
+      "bytes": 1307,
+      "sha256": "be74cddeaee563c9f388ce685842d05a9f923cb614268d5b212bf4f3f2c0a666"
     },
     {
       "path": "local_memory/exports/personal/L2_Agent_Autoloop后台蓝色选项试跑.md",
@@ -2598,8 +3063,8 @@
     },
     {
       "path": "local_memory/exports/personal/L2_Codex聊天Wiki建立与跨模型调用.md",
-      "bytes": 1186,
-      "sha256": "941faa73329e1b83e41d9c7b36a01b52ac39e63b56be429f0ed2b865cb234ef7"
+      "bytes": 1005,
+      "sha256": "bf7fdc48d42520fb8a14a216d06398955f10fbac407a2405497d30a0dd026e22"
     },
     {
       "path": "local_memory/exports/personal/L2_CRTC小车.md",
@@ -2662,17 +3127,32 @@
       "sha256": "5f456d9d45827c5601483e067b52eea3ae35827811ff230b874269140bdae5bd"
     },
     {
+      "path": "local_memory/exports/personal/L2_Read_$OMX_TEAM_STATE_ROOT_team_explicitly-authorized-1e61fd52_workers_worker-1_inbox..md",
+      "bytes": 1180,
+      "sha256": "93587cd78f155da52f0bc464147ee0cfec067b653dbad238a59f8b1adeb9da38"
+    },
+    {
+      "path": "local_memory/exports/personal/L2_Read_$OMX_TEAM_STATE_ROOT_team_explicitly-authorized-1e61fd52_workers_worker-2_inbox..md",
+      "bytes": 1344,
+      "sha256": "1206df6484ab6d5611b48aad0c3e96588766190987a45c0e32e342303d06571f"
+    },
+    {
       "path": "local_memory/exports/personal/L2_Reply_with_exactly_OMX-EXEC-OK._Do_not_use_any_tools_or_modify_any_files.md",
       "bytes": 799,
       "sha256": "6b773c610e1c82d2fec2efa5216a0c65e6255180dccea2dc3ba2fa0e288b02dc"
     },
     {
       "path": "local_memory/exports/personal/L2_Run_an_explicitly_authorized_OMX_TEAM_terminal_smoke_test_now._Load_the_installed_tea.md",
+      "bytes": 2383,
+      "sha256": "cc7910e0c2cf4164a1ebb819f971b642e9a2b286a753c9f95f2e549af19721fd"
+    },
+    {
+      "path": "local_memory/exports/personal/L2_Run_an_explicitly_authorized_OMX_TEAM_terminal_smoke_test_now._Load_the_installed_tea（2）.md",
       "bytes": 2582,
       "sha256": "c9c8d575b3c766d74d291b517efedc1a022735685928638df9d50fb2214e55a8"
     },
     {
-      "path": "local_memory/exports/personal/L2_Run_an_explicitly_authorized_OMX_TEAM_terminal_smoke_test_now._Load_the_installed_tea（2）.md",
+      "path": "local_memory/exports/personal/L2_Run_an_explicitly_authorized_OMX_TEAM_terminal_smoke_test_now._Load_the_installed_tea（3）.md",
       "bytes": 2509,
       "sha256": "c4d636dfcc370e99e926716faa869ed49ed7481036a3dd2e20ec2ee76ea5dcd1"
     },
@@ -2852,6 +3332,16 @@
       "sha256": "edbc41d74662d54fe060a2f17087e03b4bee051f2e414aa62eff7ff95fe72901"
     },
     {
+      "path": "local_memory/exports/personal/L2_待整理的历史会话.md",
+      "bytes": 2224,
+      "sha256": "f427036ff17ae6ee5cfc037f83289ffcdaddbfeacf4ef8604fb3bbd16e450450"
+    },
+    {
+      "path": "local_memory/exports/personal/L2_我在安装hermess，出现了以下错误，应该如何解决：日志地址__C__Users_JackTan_AppData_Local_hermes_logs___，诊断好后请给.md",
+      "bytes": 1939,
+      "sha256": "6725efa2a491325738ac982a03e1d2cf29db0f803b96ecd3d663520f24d54a44"
+    },
+    {
       "path": "local_memory/exports/personal/L2_拍照识别剩余食材与菜谱匹配.md",
       "bytes": 532,
       "sha256": "44ef354f9f6c9899b63962bbd39b08336caa7406a930e84ccbf975c48e154a19"
@@ -2962,6 +3452,11 @@
       "sha256": "020c5f14a8ba2cd198f31a47649560f6a165ae68d4b3709043692b6d83447072"
     },
     {
+      "path": "local_memory/exports/personal/L2_自动采用子代理安装并分析这个skill[https___github.com_morluto_rea](https___github.com_morluto_rea).md",
+      "bytes": 1760,
+      "sha256": "ff4a556b9f51b7d9c5c6b7bfe75bc394f823bb9a63f1b685132511c8e2d51c33"
+    },
+    {
       "path": "local_memory/exports/personal/L2_自然与设计.md",
       "bytes": 1939,
       "sha256": "30618e48e358ddb954d1f9e4c97ecca751babf58fd0f3b19f9e8c42f3105e7c8"
@@ -3002,6 +3497,36 @@
       "sha256": "7ad4f39be70158cb8b4af86f3e536bee5d7d85a6d857d1c7b3e9046f60746a96"
     },
     {
+      "path": "local_memory/exports/personal/L2_请帮我检查这个_Python_函数有没有问题：def_average(xs)__return_sum(xs)___len(xs)。请给出改进建议，并列出你实际读取过的角色.md",
+      "bytes": 2478,
+      "sha256": "d86972cfafdbd260b0db6e7ce9cdf708fbdaa47401d830c22ac2f20d218dad86"
+    },
+    {
+      "path": "local_memory/exports/personal/L2_请根据我的对话记录，根据我的制作做一个产品汇报答辩的ppt：_1.整个ppt的风格请严格按照苹果发布会的风格进行制作，包括UI设计、转场动画等；_2.我对产品的定位为家庭.md",
+      "bytes": 2225,
+      "sha256": "f3fef839d8ff9598689da722663d65e981bf3b1f9a0c2d4cba26be407515fa79"
+    },
+    {
+      "path": "local_memory/exports/personal/L2_请根据我的最新的大纲制作一个PPT用于课堂汇报，要求我能够根据ppt内容进行讲解，重点制作中间工程原理的部分，并且要让内容详尽，有配图，PPT视效美观，高大尚.md",
+      "bytes": 6668,
+      "sha256": "906af68431c5f64c2930d9de43b81e188f0371faa98726a8e08a4ccbb9ee0748"
+    },
+    {
+      "path": "local_memory/exports/personal/L2_请检查下面_Python_函数的边界问题并给出修改建议：def_average(xs)__return_sum(xs)___len(xs)。不要修改文件。请在回答末尾列出.md",
+      "bytes": 3465,
+      "sha256": "278401aa7eb65038195a8cfd5ba5ba64e0a144f88881a37c4056296bbaecf55f"
+    },
+    {
+      "path": "local_memory/exports/personal/L2_请检视所有安装的skills，给所有的skills增加自动检查启动，我希望实现：首先从个人知识库中调用已有的个人数据，调用之后再根据任务情况自动调用相应的skills实现.md",
+      "bytes": 1857,
+      "sha256": "cbb8f06854169566bb9106c3d2f696dc50d250ad9c8851516d060da41ad15520"
+    },
+    {
+      "path": "local_memory/exports/personal/L2_请每天第一次打开codes的时候自动读取AI-HOT网站的最新最热的1条推文，并进行总结，带入产品经理的角度帮助我进行分析与决策。并补上今天的.md",
+      "bytes": 5819,
+      "sha256": "12104ce65baf410a8ed9a247f2ab369d7ddd025d819b1d9dd6a6f4f9d57ecca5"
+    },
+    {
       "path": "local_memory/exports/personal/L2_读取菜谱并按剩余食材推荐菜肴.md",
       "bytes": 680,
       "sha256": "548a8ba36c689c592e98d39edacab34d540776294968f90701283b7f5b6508e6"
@@ -3023,13 +3548,18 @@
     },
     {
       "path": "local_memory/exports/personal/记忆索引.md",
-      "bytes": 10120,
-      "sha256": "e5f69d6ebb9da8f385a3ff96c9c307e72bdcbee818b4790d71f03b9320b07629"
+      "bytes": 15834,
+      "sha256": "83aa63f6b3f7ca05d84345a22e57d0ed08545992de98866ef95db8eb18520055"
     },
     {
       "path": "local_memory/github/config.json",
       "bytes": 418,
       "sha256": "ce08f87bb77f9f0f580a44c00de29e89d77b92fdb0609c4e9c71f547a7da0586"
+    },
+    {
+      "path": "local_memory/github/state.json",
+      "bytes": 523,
+      "sha256": "4bfb2dd95c960980e233be8592ab0ab016116082dedd8ecfdeaad3eb8a4dea94"
     },
     {
       "path": "local_memory/github/同步操作指南.md",
@@ -3059,7 +3589,7 @@
     {
       "path": "local_memory/notion/outbox.json",
       "bytes": 359,
-      "sha256": "9965418823374ac2dda4e5420ed2d18e17a5a5e25d89fe131d4499e24c7af148"
+      "sha256": "1d24fd0eed3f669d38bfe8b3f80995c70887ec3939dbdf980fa6bd82d3ace3d2"
     },
     {
       "path": "local_memory/notion/receipts.json",
@@ -3258,8 +3788,8 @@
     },
     {
       "path": "会话索引.md",
-      "bytes": 11515,
-      "sha256": "92564ec6bb63dd8bbeaf70b62c4bfcb9cd3801104cfd084d93d643a0f6742fb6"
+      "bytes": 17912,
+      "sha256": "b37c7ca4a7a98f44a3837f39900091dcaa36212a329cb74d78e737fdaddb254a"
     },
     {
       "path": "使用指南.md",
@@ -4637,8 +5167,7 @@
     "local_memory/data/backups/memory_20261115_003710_601279.sqlite",
     "local_memory/data/backups/memory_20261115_003743_173304.sqlite",
     "local_memory/data/backups/memory_20261115_005401_646985.sqlite",
-    "local_memory/data/memory.sqlite-shm",
-    "local_memory/data/memory.sqlite-wal",
+    "local_memory/data/backups/memory_20261115_232221_071757.sqlite",
     "local_memory/deps/tokenizers/__init__.py",
     "local_memory/deps/tokenizers/__init__.pyi",
     "local_memory/deps/tokenizers/__pycache__/__init__.cpython-314.pyc",
@@ -4699,10 +5228,12 @@
     "local_memory/runtime/daily_runs/20261115_003427_802013.json",
     "local_memory/runtime/daily_runs/20261115_003731_336689.json",
     "local_memory/runtime/daily_runs/20261115_005349_009662.json",
+    "local_memory/runtime/daily_runs/20261115_230111_661454.json",
     "local_memory/runtime/daily_runs/daily_job.lock",
     "local_memory/runtime/daily_runs/latest.json",
     "local_memory/runtime/github_remote/.git/config",
     "local_memory/runtime/github_remote/.git/description",
+    "local_memory/runtime/github_remote/.git/FETCH_HEAD",
     "local_memory/runtime/github_remote/.git/HEAD",
     "local_memory/runtime/github_remote/.git/hooks/applypatch-msg.sample",
     "local_memory/runtime/github_remote/.git/hooks/commit-msg.sample",
@@ -4723,12 +5254,56 @@
     "local_memory/runtime/github_remote/.git/logs/HEAD",
     "local_memory/runtime/github_remote/.git/logs/refs/heads/main",
     "local_memory/runtime/github_remote/.git/logs/refs/remotes/origin/HEAD",
+    "local_memory/runtime/github_remote/.git/logs/refs/remotes/origin/main",
+    "local_memory/runtime/github_remote/.git/objects/02/3951730201edbd38606f9d1b15d8c60a8bc812",
+    "local_memory/runtime/github_remote/.git/objects/07/182e8b6cdd01476dfa637b1bcbc61dc4338b11",
+    "local_memory/runtime/github_remote/.git/objects/12/12c983dc3d4e9b1781bf59413b6efde00c10ec",
+    "local_memory/runtime/github_remote/.git/objects/16/d1943fe67b82018d35ecfac8a211f42dcc1915",
+    "local_memory/runtime/github_remote/.git/objects/18/0eb4b0343fbaeae2efa1ae7e87c58d0eeacde4",
+    "local_memory/runtime/github_remote/.git/objects/1a/ce828e9ee2fe5af67dd80854dc4021e07d1747",
+    "local_memory/runtime/github_remote/.git/objects/20/51d6068ab1f8b9056817ea2f17bee149733c15",
+    "local_memory/runtime/github_remote/.git/objects/23/f504489b2d8ece8fbed7e49ac45cdab8118262",
+    "local_memory/runtime/github_remote/.git/objects/33/277d92291cba18ca7440bf70f4cefe8cd8a937",
+    "local_memory/runtime/github_remote/.git/objects/34/f3ca922450d88e4142fd5443313c4ef3d3f321",
+    "local_memory/runtime/github_remote/.git/objects/3a/e3dbdc47f0c866d4b962499fbcf254e3eca64c",
+    "local_memory/runtime/github_remote/.git/objects/3f/da5caa85022dfe29ec3ec46126e5301dbd06df",
+    "local_memory/runtime/github_remote/.git/objects/4b/43f65a99b44328d51eb8635004d7c349846ba5",
+    "local_memory/runtime/github_remote/.git/objects/4c/357cdac08c45947d3aa1b3f3e9f0b4f5aba7ab",
+    "local_memory/runtime/github_remote/.git/objects/4d/e7f8b5ebf4e3f5741a4b4d5aaa446f1f2e9732",
+    "local_memory/runtime/github_remote/.git/objects/4e/fab2534a2cd40229bc0279fd7e020128b437cd",
+    "local_memory/runtime/github_remote/.git/objects/5c/087644b8a3ea2a5b71d044acdb0fa6d2939af9",
+    "local_memory/runtime/github_remote/.git/objects/60/61fc91c6ac21b4789db922be3caa346a482f2e",
+    "local_memory/runtime/github_remote/.git/objects/61/1ea847f7f3ba056276ef565dc6736f7f0e6acf",
+    "local_memory/runtime/github_remote/.git/objects/64/0a1b2bd71a8937cdace1bb06abec302ac2c336",
+    "local_memory/runtime/github_remote/.git/objects/69/83f89f88652c956ca09f6083acfd3ef63f35ea",
+    "local_memory/runtime/github_remote/.git/objects/73/20e1dbcfa2747c0646717c719d583ba63797bf",
+    "local_memory/runtime/github_remote/.git/objects/77/1b3aaa4e84ca63d4255b038d020c3dfefb731d",
+    "local_memory/runtime/github_remote/.git/objects/7d/00690c117b57bc4800332238e3e3f198fa3750",
+    "local_memory/runtime/github_remote/.git/objects/8c/d945c60e08e8ff44cc7dc4dbe7ad05fa604758",
+    "local_memory/runtime/github_remote/.git/objects/96/7a20e201516d95798ba68fec3865bbe694f56a",
+    "local_memory/runtime/github_remote/.git/objects/a2/e38ae80a3110bf96f23b6c58445ec329e55917",
+    "local_memory/runtime/github_remote/.git/objects/a5/a7e196a43902c94033794955babf7c81ced221",
+    "local_memory/runtime/github_remote/.git/objects/a7/b50bed4c10b80669d75877eff6adbf7e1338ea",
+    "local_memory/runtime/github_remote/.git/objects/ae/10f92d0c601599c7e76f0e8031d18c7313b6fc",
+    "local_memory/runtime/github_remote/.git/objects/ba/e881049ed862785bdf73f742e9a04b79565488",
+    "local_memory/runtime/github_remote/.git/objects/c6/a37fbef02eb9738c3287e8a8cf24149992de88",
+    "local_memory/runtime/github_remote/.git/objects/d4/653db5020c3e170c2d6510b7bca5b22d97f26b",
+    "local_memory/runtime/github_remote/.git/objects/d5/ca670340c6653b33ad3766a2b564551fee1182",
+    "local_memory/runtime/github_remote/.git/objects/d6/53825068f80f378ad057ba06940cb7d27ecc4b",
+    "local_memory/runtime/github_remote/.git/objects/dc/4ccea65f295001200cfba22a94b47561e1bb9c",
+    "local_memory/runtime/github_remote/.git/objects/e0/6664f11af55d1772c8287bb220dff4b2ec4364",
+    "local_memory/runtime/github_remote/.git/objects/e8/d1f0e48fc90868c7fbeec91380bb390100eb27",
+    "local_memory/runtime/github_remote/.git/objects/ea/52c62bc1b987b463a0e5c1fc1d25a31592a60c",
+    "local_memory/runtime/github_remote/.git/objects/ee/2c93f006b595dc6a58b0840e85f003a137ed99",
+    "local_memory/runtime/github_remote/.git/objects/f4/b8ef61470221573c14e631019dbf1f6e3cabec",
+    "local_memory/runtime/github_remote/.git/objects/fa/93fe1d6f02e843517d5d27da55e703afbf0b34",
     "local_memory/runtime/github_remote/.git/objects/pack/pack-9f0779bda603425ca538715a673c4819c639aa0b.idx",
     "local_memory/runtime/github_remote/.git/objects/pack/pack-9f0779bda603425ca538715a673c4819c639aa0b.pack",
     "local_memory/runtime/github_remote/.git/objects/pack/pack-9f0779bda603425ca538715a673c4819c639aa0b.rev",
     "local_memory/runtime/github_remote/.git/packed-refs",
     "local_memory/runtime/github_remote/.git/refs/heads/main",
     "local_memory/runtime/github_remote/.git/refs/remotes/origin/HEAD",
+    "local_memory/runtime/github_remote/.git/refs/remotes/origin/main",
     "local_memory/runtime/github_remote/.git/shallow",
     "local_memory/runtime/github_remote/BACKUP.md",
     "local_memory/runtime/github_remote/README.md",
