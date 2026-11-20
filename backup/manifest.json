@@ -1,78 +1,78 @@
 {
   "format": 1,
   "scope": "full_wiki_including_chats",
-  "archive_sha256": "ee3bb003a176922787b4118bb24c7f34669a555e5bafd636641eb60dd6063b13",
-  "archive_bytes": 7753854,
+  "archive_sha256": "a739117f4dacdb15c5514efaabb98c6724739cdd1eeddd37519313b66d1f21e1",
+  "archive_bytes": 7779630,
   "parts": [
     {
       "path": "wiki.zip.part0001",
       "bytes": 589824,
-      "sha256": "901dad4a751c4420d6ec40ae28509f13aaa7e87bf3619ad5b38c475c39cfa9c1"
+      "sha256": "aaca26c10f44d9ff4ef8fae834cb27226aa7711b13e74467df509edfd16f480a"
     },
     {
       "path": "wiki.zip.part0002",
       "bytes": 589824,
-      "sha256": "48b37684059b97a0baa9a8c3e61f95c784473e08f7bf5f9604e71a5dc04d6bf4"
+      "sha256": "78d885839392bafbfa2fe861d86bc17da0e71b33eb65ae4851ef80cb69335d4e"
     },
     {
       "path": "wiki.zip.part0003",
       "bytes": 589824,
-      "sha256": "7d06e5cdbd14dd4b8798bb96a65814230a8caad5f28b02e2748168fce4e835a0"
+      "sha256": "c2a57167b787fabd2eab7a034f47342bcd67489b96bebd21ce16fa93fbcdfb26"
     },
     {
       "path": "wiki.zip.part0004",
       "bytes": 589824,
-      "sha256": "e49849c67c607761cef0150146694074c6d9c100ddc43306d848b56cbaa8ecf0"
+      "sha256": "351dd957800f5118e9afb692a321a7b96a8acddc856eee35c18ba4a1d8386371"
     },
     {
       "path": "wiki.zip.part0005",
       "bytes": 589824,
-      "sha256": "a92ede246771f9845698d0d6cf4fc5dfac7d38d5864e67a03cf7d017ff19b60d"
+      "sha256": "719ba23ba846ec00df1a30db5a909f6642be4ccbc675161b86c2c3fe1e86d4c7"
     },
     {
       "path": "wiki.zip.part0006",
       "bytes": 589824,
-      "sha256": "20c75c2f67b9ab388102bcbb362173e3c9092634a7dee46ee4e12ca601083ca4"
+      "sha256": "490da956e79ccf3ea3f75e9146a4de2419faa9483e2e0a65ec1993818928f450"
     },
     {
       "path": "wiki.zip.part0007",
       "bytes": 589824,
-      "sha256": "1a76ee90b8e17fa46b0bddd498cbd7c76ec25ed98e3e80c8a14145bffc7f7b55"
+      "sha256": "02adfb94ca857eab0095fbdadde7af541db3dbd629947c0db49b6f276308464e"
     },
     {
       "path": "wiki.zip.part0008",
       "bytes": 589824,
-      "sha256": "4ed2453686d4a1eea884839fe6d75b5f5aac6bb0012b69fdf0b9bd200fcdaea2"
+      "sha256": "31bf19439f87ff24971b5258366926f0881a274a69ec2243f41515965fa889d8"
     },
     {
       "path": "wiki.zip.part0009",
       "bytes": 589824,
-      "sha256": "c926b5e21044282b5ec47a401cf139d49dd3f990d3c54a0585996d3b63951d6f"
+      "sha256": "3d96ba069c64053cd657313e446806b67f0432e3a2830df139aa4bffaa2a0f67"
     },
     {
       "path": "wiki.zip.part0010",
       "bytes": 589824,
-      "sha256": "cd73de25c116244d9dcfcddf671b1970715f98b2caf94896b5b709d4ded199a2"
+      "sha256": "b10ce5e1c96d4ccbe66e101d7d41684410e91f176292324d49a7c8a65eb290d7"
     },
     {
       "path": "wiki.zip.part0011",
       "bytes": 589824,
-      "sha256": "c7f10e060896b70f68ac1f76eb923849a5c56e6c974e05145d8cb1f782c01506"
+      "sha256": "600e6544328fe44888d880e63459e01083518e57ee92edd6d0317cd898fba04d"
     },
     {
       "path": "wiki.zip.part0012",
       "bytes": 589824,
-      "sha256": "2806ec0fe9d117c3d4e479cd8a7346894883faaa7b0fc15edb0bed4fe9771915"
+      "sha256": "7676dcfa211416671300265a19d5d1f09f656668812a95e9061e1f927941459b"
     },
     {
       "path": "wiki.zip.part0013",
       "bytes": 589824,
-      "sha256": "d3a6642da635815cfeba27f680395ee50d4358a7378ed1769b3496e78d9bc55e"
+      "sha256": "1c972146e5117679cac2cf786a5fdef600759e65122e7778631d0cba2db061e3"
     },
     {
       "path": "wiki.zip.part0014",
-      "bytes": 86142,
-      "sha256": "10415da8254344e9f90a993ef89713007eec3439bc60b2e8e27d721e4cdbaf5a"
+      "bytes": 111918,
+      "sha256": "d3ab458463a59302f30e85d6b8bcae73ef2a6cf0af6fb943cfd00a05514133d8"
     }
   ],
   "files": [
@@ -123,8 +123,8 @@
     },
     {
       "path": ".obsidian/workspace.json",
-      "bytes": 7364,
-      "sha256": "6f023f21562f3af42751d7a8ec67d100ecb6288c1c14a932ac35397e4cdedca3"
+      "bytes": 7451,
+      "sha256": "f3c513694f44d20098844cc3c1f4a1932eca46b56065ced54b62f23c78910cb4"
     },
     {
       "path": "01_专题/CRTC小车.md",
@@ -195,6 +195,11 @@
       "path": "02_会话/#Filesmentionedbytheuser##课程报告模板.docxDCQU写字小贱钟课程报告模板.docxDistingu.md",
       "bytes": 46287,
       "sha256": "95a854d7887334be2d2b92da8a62394735c4ce73a193a80dde0170cb7a6fc7a5"
+    },
+    {
+      "path": "02_会话/#不会用的别来！！不看说明别来！！比价网市场是公开透明的！本链接已是底价中的底价！薄利多销！事多的请换其他店家！不在售后范围内的投.md",
+      "bytes": 50695,
+      "sha256": "bf96ed3a3128bf75c77dea55b548f18182b57414cba5ef8773d4aeb93d5e8519"
     },
     {
       "path": "02_会话/[@GitHub](plugingithub@openai-curated-remote)[@Parallel](pluginap.md",
@@ -273,8 +278,8 @@
     },
     {
       "path": "02_会话/Codex聊天Wiki建立与跨模型调用.md",
-      "bytes": 323830,
-      "sha256": "104ae0b563245a14842b676ec6fb5aec5e2a39db3ef55b73f10072add76bc1d5"
+      "bytes": 329917,
+      "sha256": "a94799263080ca3e6dff9c31068299cfeba8665d36a5acd6ff7b6619bf81daa8"
     },
     {
       "path": "02_会话/ESP32双SG90串口控制与原接线保留.md",
@@ -405,6 +410,11 @@
       "path": "02_会话/修复npm-v报错.md",
       "bytes": 7083,
       "sha256": "7f4270b81f189e8506e323b429e396ab060b203db994cf19e3de56a299608862"
+    },
+    {
+      "path": "02_会话/假如你是一个谷歌账号申诉专家，我现在想要把我的谷歌账号换区，本来到中国，现在想换到日本，给我一个申诉理由填写，英文.md",
+      "bytes": 39872,
+      "sha256": "602fbeafc9e112d49404c5de36bab9aec3ae1b2aefedbd985ec7b766ba24328e"
     },
     {
       "path": "02_会话/假设你是一个非常懂学生的大学教师，我现在要学习示波器的基本原理和使用，请将我要学习的内容进行深度分析和拆解，再请给我一个详细的入门.md",
@@ -668,8 +678,8 @@
     },
     {
       "path": "02_会话/自然与设计P1分工与T1计划.md",
-      "bytes": 91553,
-      "sha256": "dd04827b3bcf0bcd1d2864578e08c928847c36ef075b170e39a75c583a3cfc6b"
+      "bytes": 93433,
+      "sha256": "f52b980a9963a2a05abac584cecb4bc7f9735bd56581077c26d3d754a961c56c"
     },
     {
       "path": "02_会话/荧光时钟结构与SolidWorks零基础入门.md",
@@ -722,6 +732,11 @@
       "sha256": "c68e9d008441e5bd5ba3bbd4d99fcdaf71dba2c9ff6709d96abe2f7298496b8b"
     },
     {
+      "path": "02_会话/请根据学习计划中的内容仔细讲解基尔霍夫定理.md",
+      "bytes": 59658,
+      "sha256": "40917f9899a5c3aef690a02aa874ad8f8eaca87b3cae24580a5f523b880c5421"
+    },
+    {
       "path": "02_会话/请根据我的对话记录，根据我的制作做一个产品汇报答辩的ppt：1.整个ppt的风格请严格按照苹果发布会的风格进行制作，包括UI设计、.md",
       "bytes": 168222,
       "sha256": "510e4a24f80ca227426ca06e787b162f4a7f544097efafdcaebe2aa8d37bc626"
@@ -753,8 +768,8 @@
     },
     {
       "path": "02_会话/请每天第一次打开codes的时候自动读取AI-HOT网站的最新最热的1条推文，并进行总结，带入产品经理的角度帮助我进行分析与决策。.md",
-      "bytes": 134486,
-      "sha256": "0ee73fc4919ef2ea2aad54b49e6de45979d30bed3e0d338803334971760303f1"
+      "bytes": 139074,
+      "sha256": "1990803324345db76081c33ddf030cd381afe337cf1428c7e83c9f1c3b620616"
     },
     {
       "path": "02_会话/请读取文件夹中的开源模型，核对要求，确定这个模型能够满足要求吗？那些要改一下？看一下要求必须不带电吗.md",
@@ -1312,6 +1327,11 @@
       "sha256": "c0e72fd8098dfe30a7026812faf6ed84fd1492ac1fc4fd70940a592f9ace2565"
     },
     {
+      "path": "03_子任务/待整理的历史会话（95）.md",
+      "bytes": 1821,
+      "sha256": "2a2230d9ac25a286da8e01dba04785f02923731bcadb03fd20c2c2b210e05156"
+    },
+    {
       "path": "03_子任务/待整理的历史会话（9）.md",
       "bytes": 2333,
       "sha256": "28e8bdced68670861b43fc2f2ce4dcd9d9f1295fed85cc1cbc7a80d99cd83db1"
@@ -1323,8 +1343,8 @@
     },
     {
       "path": "03_子任务/操作审查：CAD兼容库安装与STEP检查.md",
-      "bytes": 64711,
-      "sha256": "2d96ad67565d36cd53d183c3cb5050371d41f3609bd08ec01c00a0baaaa1cb5b"
+      "bytes": 6511,
+      "sha256": "c87f15bac857e289507644592e5c5176dbd4be6d02c0bfc140c108dfa6bbb9a7"
     },
     {
       "path": "03_子任务/操作审查：Canva设计事务恢复与保存.md",
@@ -1408,8 +1428,8 @@
     },
     {
       "path": "03_子任务/操作审查：PUA个人全局技能安装.md",
-      "bytes": 32992,
-      "sha256": "058a1b266762745771c140be4468dc3d153ba22d6a8bc462558b6276a9c98640"
+      "bytes": 974,
+      "sha256": "e59c851c750f63d50dd7ca7d650a0cc7fbb9810e7b4612a6a37a9e85b5a897cc"
     },
     {
       "path": "03_子任务/操作审查：QEA小组报告重新生成与PDF导出.md",
@@ -1433,8 +1453,8 @@
     },
     {
       "path": "03_子任务/操作审查：SolidWorks模型转换进程诊断.md",
-      "bytes": 108858,
-      "sha256": "cf044f1f70ab42b45a3180b9d8d8bef90a557fe7eb15adfd4de807b12b164609"
+      "bytes": 12774,
+      "sha256": "5e48e9f1ce37da905aecc6d0163de945c875a52d5d8ee79e107646fa3a18a9bf"
     },
     {
       "path": "03_子任务/操作审查：Springer圆跳虫论文下载.md",
@@ -1548,8 +1568,8 @@
     },
     {
       "path": "03_子任务/操作审查：无效PDF清理与本地文献检索.md",
-      "bytes": 64478,
-      "sha256": "84f5a07a3fe94b485f896300f5477ceac20a04c54ef3d4caa5aeac32d24b56f4"
+      "bytes": 14845,
+      "sha256": "01b4de3f1a41cbe3e42459237ac92fd371f910062a6e5da11009cb5a5a4db4ad"
     },
     {
       "path": "03_子任务/操作审查：无效论文下载文件修复.md",
@@ -2092,6 +2112,11 @@
       "sha256": "2d6126c0adc8c635a3d69c4b0f34389d7de689cd94748e96c2b93233cc9520ac"
     },
     {
+      "path": "05_会话卡片/#不会用的别来！！不看说明别来！！比价网市场是公开透明的！本链接已是底价中的底价！薄利多销！事多的请换其他店家！不在售后范围内的投.md",
+      "bytes": 3481,
+      "sha256": "834918954c7840af58ad2bc683e7ad10b6796059e05bfe4e8dd240ce4239f883"
+    },
+    {
       "path": "05_会话卡片/[@GitHub](plugingithub@openai-curated-remote)[@Parallel](pluginap.md",
       "bytes": 3016,
       "sha256": "eabf060de634154a4031e3c73f093cc5fb9f712571a30e140ee0e502d21d0592"
@@ -2168,8 +2193,8 @@
     },
     {
       "path": "05_会话卡片/Codex聊天Wiki建立与跨模型调用.md",
-      "bytes": 1405,
-      "sha256": "81ec7431bbd1876c326b9393e4b325c68f458c707e00dba6b95b1f8a9341a229"
+      "bytes": 1662,
+      "sha256": "77eb387ebaa789b99ae379656a5b5aef0697d7f7f50b2c09ba65ed2199cb6369"
     },
     {
       "path": "05_会话卡片/ESP32双SG90串口控制与原接线保留.md",
@@ -2300,6 +2325,11 @@
       "path": "05_会话卡片/修复npm-v报错.md",
       "bytes": 1880,
       "sha256": "9dba035cf5a7a8223ebd0e43eb821b26cdae20b14d07f9f47092e56c758c23be"
+    },
+    {
+      "path": "05_会话卡片/假如你是一个谷歌账号申诉专家，我现在想要把我的谷歌账号换区，本来到中国，现在想换到日本，给我一个申诉理由填写，英文.md",
+      "bytes": 1908,
+      "sha256": "7d7a1775620c03af71e351450384689d987d8c2d2ac9904fcdd0f68bdcff3745"
     },
     {
       "path": "05_会话卡片/假设你是一个非常懂学生的大学教师，我现在要学习示波器的基本原理和使用，请将我要学习的内容进行深度分析和拆解，再请给我一个详细的入门.md",
@@ -2617,6 +2647,11 @@
       "sha256": "dd1b80a8079c3048bee4ed4a055ad0fcc5b04fffff01d6fc1d2da531b3954cf3"
     },
     {
+      "path": "05_会话卡片/请根据学习计划中的内容仔细讲解基尔霍夫定理.md",
+      "bytes": 14145,
+      "sha256": "6683b0f917dbe03016b75f9254d3cd7b50862be6320fd668b8d067a3ad41a7fa"
+    },
+    {
       "path": "05_会话卡片/请根据我的对话记录，根据我的制作做一个产品汇报答辩的ppt：1.整个ppt的风格请严格按照苹果发布会的风格进行制作，包括UI设计、.md",
       "bytes": 2509,
       "sha256": "a12d1245b10bce1dedde7b3cd7ad3b481a57c598e7fbd9eb4fe90d1f4369d9c0"
@@ -2648,8 +2683,8 @@
     },
     {
       "path": "05_会话卡片/请每天第一次打开codes的时候自动读取AI-HOT网站的最新最热的1条推文，并进行总结，带入产品经理的角度帮助我进行分析与决策。.md",
-      "bytes": 9968,
-      "sha256": "82e30e0bf79dab8de9796e80ccf6ff73aa7bf05654a306aec352739cf883d368"
+      "bytes": 9830,
+      "sha256": "a19edd18ccdd05307f2ff0b15070fc55438c6538f88852914fe8f0d22454b310"
     },
     {
       "path": "05_会话卡片/请读取文件夹中的开源模型，核对要求，确定这个模型能够满足要求吗？那些要改一下？看一下要求必须不带电吗.md",
@@ -2683,8 +2718,8 @@
     },
     {
       "path": "07_工具与技能/catalog.json",
-      "bytes": 2239226,
-      "sha256": "23e0a3eb1225f7fc498fe6ebccad08cb756d756196db8f5dab8fbd0b32321e9b"
+      "bytes": 2246205,
+      "sha256": "b130db1fb06f19486c071fa9b5d8471692ca7c642c38189e589f659c9343b8b0"
     },
     {
       "path": "07_工具与技能/README.md",
@@ -2698,8 +2733,8 @@
     },
     {
       "path": "07_工具与技能/目录.md",
-      "bytes": 1232071,
-      "sha256": "d9cfa38b0507f71d7e9b734a15ec6b2d39a406fe64f637dc1f6452a2602f79d7"
+      "bytes": 1236033,
+      "sha256": "0236d4ed63e1d7dfaca89b36f89fa58f8d8da474b04f46d667dc9fdddd4a737e"
     },
     {
       "path": "AGENTS.md",
@@ -2718,8 +2753,8 @@
     },
     {
       "path": "data/manifest.json",
-      "bytes": 234556,
-      "sha256": "1915e76f7a15d9958c5bfb91589c47f1b2a22715273961c063509419a58ed2f7"
+      "bytes": 248097,
+      "sha256": "96ccc14542f4f315f6cf0affd10c2d8ddb0ff880710f89f71c7ee70f1b444d65"
     },
     {
       "path": "data/manifest_before_rename.json",
@@ -2734,12 +2769,12 @@
     {
       "path": "data/search.sqlite",
       "bytes": 11046912,
-      "sha256": "ffbc8b407304a973c6993d5655cdbfd683f662e088012f9370f2cf1e69c5be04"
+      "sha256": "40a69b92d225c86edb304173a9b7851e6f228292dd79d672d910fc20d2afc5d1"
     },
     {
       "path": "data/stats.json",
       "bytes": 234,
-      "sha256": "90548e8bb7fbd1f55de71b1c831d64b525c2fc77b0556bc7647b396d0142e9cb"
+      "sha256": "51b1f9b06063d13fd45dd097878238e921cdbbce85f32f25d6cae91ca67a4425"
     },
     {
       "path": "imports/README.md",
@@ -2788,13 +2823,13 @@
     },
     {
       "path": "local_memory/github/state.json",
-      "bytes": 523,
-      "sha256": "573ea394da98b6d288027b9bf72f9c8c94af193b2e5b4d4384c7de7c91afd718"
+      "bytes": 292,
+      "sha256": "d2ca81671235db37167a8cdc1c7a8a4128301d12aec24b8ea12ad7d7fab73ab6"
     },
     {
       "path": "local_memory/github/同步操作指南.md",
-      "bytes": 2827,
-      "sha256": "26fa99cc99a709542e900ab21002b0a2bdf21dede5d4058f3b0bbd15104c317f"
+      "bytes": 3121,
+      "sha256": "ec792be13ca6313ddc59e24873142518a35f91cfaf394a361fdb75223b356337"
     },
     {
       "path": "local_memory/launcher.py",
@@ -2818,8 +2853,8 @@
     },
     {
       "path": "local_memory/notion/outbox.json",
-      "bytes": 359,
-      "sha256": "64fe22df209a64464dfaecc240935f042e28a538186d0eeaee3e0c9a22b28134"
+      "bytes": 7181,
+      "sha256": "cd17240fc9aa72b7716f44d26c9f94482a36cdb52de4e172ad1cb5be9b742480"
     },
     {
       "path": "local_memory/notion/receipts.json",
@@ -2858,8 +2893,8 @@
     },
     {
       "path": "local_memory/pipeline.py",
-      "bytes": 17895,
-      "sha256": "45c48ff86cc83a6c10d20dabfdab8703404cb1078e8c1183cd209973d68576f3"
+      "bytes": 18458,
+      "sha256": "70db3113fe2736109ad1d1947c1cebc184b836e7946784f53c789c0ac18c3c68"
     },
     {
       "path": "local_memory/pipeline.py.bak-20261116",
@@ -2953,8 +2988,8 @@
     },
     {
       "path": "local_memory/tools.py",
-      "bytes": 7990,
-      "sha256": "d10e4f15beae5cc9cb48251dbf179ff3a28223274fad3d0c68c4105fe130ac8d"
+      "bytes": 8011,
+      "sha256": "07a2035663e267631b76fba73d1898ef39bfb736008fdb181b1a02b774846179"
     },
     {
       "path": "local_memory/web/app.js",
@@ -3048,8 +3083,8 @@
     },
     {
       "path": "会话索引.md",
-      "bytes": 25974,
-      "sha256": "d8239c4e7845514d5120d55f14f79380150e9f759be375eaf2c05d92940bb74e"
+      "bytes": 27330,
+      "sha256": "d71748021c669b1de0fda594107ee071919ba0307e1e70a9ca86fc8352d8db22"
     },
     {
       "path": "使用指南.md",
@@ -3078,6 +3113,7 @@
     ".omx/logs/omx-2026-11-17.jsonl",
     ".omx/logs/omx-2026-11-18.jsonl",
     ".omx/logs/omx-2026-11-19.jsonl",
+    ".omx/logs/omx-2026-11-20.jsonl",
     ".omx/logs/tmux-hook-2026-11-15.jsonl",
     ".omx/logs/tmux-hook-2026-11-16.jsonl",
     ".omx/logs/tmux-hook-2026-11-17.jsonl",
@@ -4460,6 +4496,7 @@
     "06_Memory/L1/写字小贱钟：硬件与文件入口.md",
     "06_Memory/L1/单MG995小车固件与接线方案：待提炼规则.md",
     "06_Memory/L1/填写附件四个人简介与经历：待提炼规则.md",
+    "06_Memory/L1/学习任务从基础逐题引导.md",
     "06_Memory/L1/学习任务：分步引导，不直接给答案.md",
     "06_Memory/L1/安装并试跑_agent-autoloop：待提炼规则.md",
     "06_Memory/L1/完善简历并突出个人特色：待提炼规则.md",
@@ -4473,12 +4510,14 @@
     "06_Memory/L1/机械与CAD：学习入口.md",
     "06_Memory/L1/机械与CAD：装配与打印.md",
     "06_Memory/L1/机械与CAD：避免项目混用.md",
+    "06_Memory/L1/每日滚动更新并精简_L1_L2_L3.md",
     "06_Memory/L1/理工入门从基础解释.md",
     "06_Memory/L1/科技发展史：科技发展史：罗马道路.md",
     "06_Memory/L1/自然与设计：自然与设计.md",
     "06_Memory/L1/荧光时钟结构与SolidWorks零基础入门：待提炼规则.md",
     "06_Memory/L1/质量优先的Token效率执行规则.md",
     "06_Memory/L1/逐题引导完成数学作业：待提炼规则.md",
+    "06_Memory/L2/#___不会用的别来！！不看说明别来！！比价网市场是公开透明的！本链接已是底价中的底价！薄利多销！事多的请换其他店家！不在售后范围内的投诉会拉黑，谢谢！____##___.md",
     "06_Memory/L2/#_Files_mentioned_by_the_user___##_11组_谭翔珂_曾一凡_田浩男.pptx__D__Documents_iCloudDrive_课程_.md",
     "06_Memory/L2/#_Files_mentioned_by_the_user___##_分享一下Hermes最近的使用感想_3_Faustus_来自小红书网页版.jpg__D__下载_分享.md",
     "06_Memory/L2/#_Files_mentioned_by_the_user___##_课程报告模板.docx__D__CQU_写字小贱钟_课程报告模板.docx__Distinguish.md",
@@ -4527,6 +4566,7 @@
     "06_Memory/L2/以小组为单位提交如下内容：__（1）课程报告_（Word文件方式提交）__（2）源代码（压缩包方式提交）__（3）程序讲解演示视频（mp4格式）__（4）答辩PPT（PP.md",
     "06_Memory/L2/估算四角排针间距.md",
     "06_Memory/L2/修复_npm_-v_报错.md",
+    "06_Memory/L2/假如你是一个谷歌账号申诉专家，我现在想要把我的谷歌账号换区，本来到中国，现在想换到日本，给我一个申诉理由填写，英文.md",
     "06_Memory/L2/假设你是一个非常懂学生的大学教师，我现在要学习示波器的基本原理和使用，请将我要学习的内容进行深度分析和拆解，再请给我一个详细的入门指南.md",
     "06_Memory/L2/其他与待办.md",
     "06_Memory/L2/写字小贱钟.md",
@@ -4595,6 +4635,7 @@
     "06_Memory/L2/请参考Github上的Hermes的记忆系统框架，对我的知识库进行精简。.md",
     "06_Memory/L2/请帮我检查这个_Python_函数有没有问题：def_average(xs)__return_sum(xs)___len(xs)。请给出改进建议，并列出你实际读取过的角色.md",
     "06_Memory/L2/请根据github上的将workbuddy反代到dsh的工具，给我做一个workbuddy反代的工具，最好能够接到CCSwitch接到其他平台进行使用.md",
+    "06_Memory/L2/请根据学习计划中的内容仔细讲解基尔霍夫定理.md",
     "06_Memory/L2/请根据我的对话记录，根据我的制作做一个产品汇报答辩的ppt：_1.整个ppt的风格请严格按照苹果发布会的风格进行制作，包括UI设计、转场动画等；_2.我对产品的定位为家庭.md",
     "06_Memory/L2/请根据我的最新的大纲制作一个PPT用于课堂汇报，要求我能够根据ppt内容进行讲解，重点制作中间工程原理的部分，并且要让内容详尽，有配图，PPT视效美观，高大尚.md",
     "06_Memory/L2/请根据这两次的作业以及相关的讲义，给我一个可供学习的html文件进行深度学习，要求文件讲解清晰逻辑清楚，能够有针对性，能够让一个数学比较差的大学生听得清楚，听得明白。以及.md",
@@ -4639,6 +4680,9 @@
     "local_memory/data/backups/memory_20261117_230316_550026.sqlite",
     "local_memory/data/backups/memory_20261118_230123_387533.sqlite",
     "local_memory/data/backups/memory_20261119_225718_308816.sqlite",
+    "local_memory/data/backups/memory_20261119_231308_855594.sqlite",
+    "local_memory/data/backups/memory_20261119_231531_607200.sqlite",
+    "local_memory/data/backups/memory_20261120_233507_147477.sqlite",
     "local_memory/data/memory.sqlite",
     "local_memory/data/recall_evaluation.json",
     "local_memory/deps/tokenizers/__init__.py",
@@ -4707,7 +4751,7 @@
     "local_memory/exports/personal/L1_写字小贱钟：已被后续替换的参数.md",
     "local_memory/exports/personal/L1_写字小贱钟：最新历史状态.md",
     "local_memory/exports/personal/L1_写字小贱钟：硬件与文件入口.md",
-    "local_memory/exports/personal/L1_学习任务：分步引导，不直接给答案.md",
+    "local_memory/exports/personal/L1_学习任务从基础逐题引导.md",
     "local_memory/exports/personal/L1_工具与自动化：工具与自动化.md",
     "local_memory/exports/personal/L1_接续项目的记忆恢复流程.md",
     "local_memory/exports/personal/L1_数理综合：数理综合学习.md",
@@ -4716,10 +4760,11 @@
     "local_memory/exports/personal/L1_机械与CAD：学习入口.md",
     "local_memory/exports/personal/L1_机械与CAD：装配与打印.md",
     "local_memory/exports/personal/L1_机械与CAD：避免项目混用.md",
-    "local_memory/exports/personal/L1_理工入门从基础解释.md",
+    "local_memory/exports/personal/L1_每日滚动更新并精简_L1_L2_L3.md",
     "local_memory/exports/personal/L1_科技发展史：科技发展史：罗马道路.md",
     "local_memory/exports/personal/L1_自然与设计：自然与设计.md",
     "local_memory/exports/personal/L1_质量优先的Token效率执行规则.md",
+    "local_memory/exports/personal/L2_#___不会用的别来！！不看说明别来！！比价网市场是公开透明的！本链接已是底价中的底价！薄利多销！事多的请换其他店家！不在售后范围内的投诉会拉黑，谢谢！____##___.md",
     "local_memory/exports/personal/L2_#_Files_mentioned_by_the_user___##_11组_谭翔珂_曾一凡_田浩男.pptx__D__Documents_iCloudDrive_课程_.md",
     "local_memory/exports/personal/L2_#_Files_mentioned_by_the_user___##_分享一下Hermes最近的使用感想_3_Faustus_来自小红书网页版.jpg__D__下载_分享.md",
     "local_memory/exports/personal/L2_#_Files_mentioned_by_the_user___##_课程报告模板.docx__D__CQU_写字小贱钟_课程报告模板.docx__Distinguish.md",
@@ -4762,6 +4807,7 @@
     "local_memory/exports/personal/L2_以小组为单位提交如下内容：__（1）课程报告_（Word文件方式提交）__（2）源代码（压缩包方式提交）__（3）程序讲解演示视频（mp4格式）__（4）答辩PPT（PP.md",
     "local_memory/exports/personal/L2_估算四角排针间距.md",
     "local_memory/exports/personal/L2_修复_npm_-v_报错.md",
+    "local_memory/exports/personal/L2_假如你是一个谷歌账号申诉专家，我现在想要把我的谷歌账号换区，本来到中国，现在想换到日本，给我一个申诉理由填写，英文.md",
     "local_memory/exports/personal/L2_假设你是一个非常懂学生的大学教师，我现在要学习示波器的基本原理和使用，请将我要学习的内容进行深度分析和拆解，再请给我一个详细的入门指南.md",
     "local_memory/exports/personal/L2_其他与待办.md",
     "local_memory/exports/personal/L2_写字小贱钟.md",
@@ -4830,6 +4876,7 @@
     "local_memory/exports/personal/L2_请参考Github上的Hermes的记忆系统框架，对我的知识库进行精简。.md",
     "local_memory/exports/personal/L2_请帮我检查这个_Python_函数有没有问题：def_average(xs)__return_sum(xs)___len(xs)。请给出改进建议，并列出你实际读取过的角色.md",
     "local_memory/exports/personal/L2_请根据github上的将workbuddy反代到dsh的工具，给我做一个workbuddy反代的工具，最好能够接到CCSwitch接到其他平台进行使用.md",
+    "local_memory/exports/personal/L2_请根据学习计划中的内容仔细讲解基尔霍夫定理.md",
     "local_memory/exports/personal/L2_请根据我的对话记录，根据我的制作做一个产品汇报答辩的ppt：_1.整个ppt的风格请严格按照苹果发布会的风格进行制作，包括UI设计、转场动画等；_2.我对产品的定位为家庭.md",
     "local_memory/exports/personal/L2_请根据我的最新的大纲制作一个PPT用于课堂汇报，要求我能够根据ppt内容进行讲解，重点制作中间工程原理的部分，并且要让内容详尽，有配图，PPT视效美观，高大尚.md",
     "local_memory/exports/personal/L2_请根据这两次的作业以及相关的讲义，给我一个可供学习的html文件进行深度学习，要求文件讲解清晰逻辑清楚，能够有针对性，能够让一个数学比较差的大学生听得清楚，听得明白。以及.md",
@@ -4861,6 +4908,8 @@
     "local_memory/runtime/daily_runs/20261117_230243_682056.json",
     "local_memory/runtime/daily_runs/20261118_230048_799734.json",
     "local_memory/runtime/daily_runs/20261119_225646_734296.json",
+    "local_memory/runtime/daily_runs/20261119_231246_197251.json",
+    "local_memory/runtime/daily_runs/20261119_231520_534566.json",
     "local_memory/runtime/daily_runs/cloud_latest.json",
     "local_memory/runtime/daily_runs/daily_job.lock",
     "local_memory/runtime/daily_runs/latest.json",
@@ -4916,6 +4965,7 @@
     "local_memory/runtime/github_remote/.git/objects/4c/357cdac08c45947d3aa1b3f3e9f0b4f5aba7ab",
     "local_memory/runtime/github_remote/.git/objects/4d/e7f8b5ebf4e3f5741a4b4d5aaa446f1f2e9732",
     "local_memory/runtime/github_remote/.git/objects/4e/fab2534a2cd40229bc0279fd7e020128b437cd",
+    "local_memory/runtime/github_remote/.git/objects/4f/941c820ab311d8f7bd693b52c8c3af480395a2",
     "local_memory/runtime/github_remote/.git/objects/53/fc5b1a655e33c4899df0127ee23fbfd60710e7",
     "local_memory/runtime/github_remote/.git/objects/5c/087644b8a3ea2a5b71d044acdb0fa6d2939af9",
     "local_memory/runtime/github_remote/.git/objects/60/61fc91c6ac21b4789db922be3caa346a482f2e",
@@ -4924,26 +4974,36 @@
     "local_memory/runtime/github_remote/.git/objects/62/1d0ad13ff3051fa48b14e1960b54f059369b0f",
     "local_memory/runtime/github_remote/.git/objects/62/74d28e7ef7f1d292006eacbd5c706f0173b01c",
     "local_memory/runtime/github_remote/.git/objects/64/0a1b2bd71a8937cdace1bb06abec302ac2c336",
+    "local_memory/runtime/github_remote/.git/objects/67/4c590a1afc4b3e0665974a955fb7b497653c73",
     "local_memory/runtime/github_remote/.git/objects/69/83f89f88652c956ca09f6083acfd3ef63f35ea",
+    "local_memory/runtime/github_remote/.git/objects/6c/ca540c374ab254442e5258edd4652a3fa53730",
     "local_memory/runtime/github_remote/.git/objects/73/20e1dbcfa2747c0646717c719d583ba63797bf",
     "local_memory/runtime/github_remote/.git/objects/74/68b561c7bccb9f589e7bae0c797c392a92deb8",
     "local_memory/runtime/github_remote/.git/objects/77/1b3aaa4e84ca63d4255b038d020c3dfefb731d",
+    "local_memory/runtime/github_remote/.git/objects/7a/43a8f1e97f635510625f7f96b5130d7d943858",
     "local_memory/runtime/github_remote/.git/objects/7d/00690c117b57bc4800332238e3e3f198fa3750",
     "local_memory/runtime/github_remote/.git/objects/7e/54a8495cf21c125cea89b09f895f3574198b6f",
+    "local_memory/runtime/github_remote/.git/objects/7f/5a1b4aa7443ad10cddd12ccac89259bcd9e34e",
+    "local_memory/runtime/github_remote/.git/objects/7f/e1b6ece0793a8e00d386872a9d3824ed998cc9",
+    "local_memory/runtime/github_remote/.git/objects/80/f4ac62d995b839d378d7198fe78db0eafe61a3",
     "local_memory/runtime/github_remote/.git/objects/81/58fca1e319edfe3cd31d3fa3667aeaa2450378",
+    "local_memory/runtime/github_remote/.git/objects/85/515518efe26f82dad855e49b11c511842ea12c",
     "local_memory/runtime/github_remote/.git/objects/86/bc7bcdcfdc3b4e55725c177280cf25ee8764ca",
     "local_memory/runtime/github_remote/.git/objects/86/c97b5bea27dc44c395287c2d6e7be3535406ed",
     "local_memory/runtime/github_remote/.git/objects/8c/d945c60e08e8ff44cc7dc4dbe7ad05fa604758",
     "local_memory/runtime/github_remote/.git/objects/96/7a20e201516d95798ba68fec3865bbe694f56a",
     "local_memory/runtime/github_remote/.git/objects/9d/9cce5885cb0094ccd51fd1d61fc521106f9eac",
+    "local_memory/runtime/github_remote/.git/objects/9e/ad852c679e7cbd3be1348837dc869cb6c79132",
     "local_memory/runtime/github_remote/.git/objects/a1/d914bfdf0db06813ccf5d1db7f19c5fb44b7a4",
     "local_memory/runtime/github_remote/.git/objects/a2/e38ae80a3110bf96f23b6c58445ec329e55917",
     "local_memory/runtime/github_remote/.git/objects/a5/a7e196a43902c94033794955babf7c81ced221",
     "local_memory/runtime/github_remote/.git/objects/a7/b50bed4c10b80669d75877eff6adbf7e1338ea",
+    "local_memory/runtime/github_remote/.git/objects/a7/d94883e4ef1cc261f0a7a74337a4c477ef873d",
     "local_memory/runtime/github_remote/.git/objects/a8/6e3a8a1ae5f929a337f30d06f8f3ecb8242dc8",
     "local_memory/runtime/github_remote/.git/objects/ae/10f92d0c601599c7e76f0e8031d18c7313b6fc",
     "local_memory/runtime/github_remote/.git/objects/b4/b191fe27892cb03945d12e0fe8b54c77258b17",
     "local_memory/runtime/github_remote/.git/objects/b7/310aed90b1e3ca2812783d71ddb2631ce11ce9",
+    "local_memory/runtime/github_remote/.git/objects/b9/7101b4c2c3400b4f2ca69e55c47816aafa003e",
     "local_memory/runtime/github_remote/.git/objects/ba/e881049ed862785bdf73f742e9a04b79565488",
     "local_memory/runtime/github_remote/.git/objects/bd/38bc05af8d020617b96f26fbbfda7b0a1375a3",
     "local_memory/runtime/github_remote/.git/objects/be/e5e2c39f2d2964f1f54120340112902a9968cc",
@@ -4955,20 +5015,27 @@
     "local_memory/runtime/github_remote/.git/objects/c6/a37fbef02eb9738c3287e8a8cf24149992de88",
     "local_memory/runtime/github_remote/.git/objects/ca/b46306747d2451b03e31952b4f373233406c89",
     "local_memory/runtime/github_remote/.git/objects/ca/d43f3cfb973eedbcba94f944527013101c50b3",
+    "local_memory/runtime/github_remote/.git/objects/ca/df0f71838f76a08ffbbbcc508b539c68b765bf",
     "local_memory/runtime/github_remote/.git/objects/cc/c25d2fa12bad78ce2a0b25eed725a7261f9be5",
     "local_memory/runtime/github_remote/.git/objects/cd/485780f299baa9b63c991a2fe8f72c832f820d",
+    "local_memory/runtime/github_remote/.git/objects/cf/9a8ef7bd7ad97f7e9641e6f0361016d7bf9059",
     "local_memory/runtime/github_remote/.git/objects/d0/a7a209b90ad42ed561b3d1d8575a2c5e522051",
     "local_memory/runtime/github_remote/.git/objects/d4/653db5020c3e170c2d6510b7bca5b22d97f26b",
     "local_memory/runtime/github_remote/.git/objects/d5/ca670340c6653b33ad3766a2b564551fee1182",
     "local_memory/runtime/github_remote/.git/objects/d6/53825068f80f378ad057ba06940cb7d27ecc4b",
+    "local_memory/runtime/github_remote/.git/objects/d7/cfac88314aaeb8aebf40a588bf9b18738a13f1",
     "local_memory/runtime/github_remote/.git/objects/db/2fae6607c6e66cc3dd2ea8e2a23c050af25439",
     "local_memory/runtime/github_remote/.git/objects/dc/4ccea65f295001200cfba22a94b47561e1bb9c",
+    "local_memory/runtime/github_remote/.git/objects/dc/dfc863d422f986cc7d1c38aa1975a4963da604",
     "local_memory/runtime/github_remote/.git/objects/e0/6664f11af55d1772c8287bb220dff4b2ec4364",
     "local_memory/runtime/github_remote/.git/objects/e4/784108e2af5cae04205bb3f754b364f8677a13",
     "local_memory/runtime/github_remote/.git/objects/e6/eed2dfb0b8933fa1b70ceba5e1950adbac0d04",
+    "local_memory/runtime/github_remote/.git/objects/e7/0f222884d2efc601a947ecfdca8344a48a2369",
     "local_memory/runtime/github_remote/.git/objects/e8/d1f0e48fc90868c7fbeec91380bb390100eb27",
     "local_memory/runtime/github_remote/.git/objects/e9/097a1e6e5eada5c70c7fb487f0369546a8b83e",
     "local_memory/runtime/github_remote/.git/objects/ea/52c62bc1b987b463a0e5c1fc1d25a31592a60c",
+    "local_memory/runtime/github_remote/.git/objects/ed/ef742f43a42398e3e12e0f788ed6f95eea2a18",
+    "local_memory/runtime/github_remote/.git/objects/ee/056cfecbb553bb8d7db0ccf6fd3ace9df788e8",
     "local_memory/runtime/github_remote/.git/objects/ee/2c93f006b595dc6a58b0840e85f003a137ed99",
     "local_memory/runtime/github_remote/.git/objects/f2/c54057120bc51fa6b376fa197dc18d3e022e2c",
     "local_memory/runtime/github_remote/.git/objects/f4/b8ef61470221573c14e631019dbf1f6e3cabec",
@@ -4983,6 +5050,7 @@
     "local_memory/runtime/github_remote/.git/shallow",
     "local_memory/runtime/github_remote/BACKUP.md",
     "local_memory/runtime/github_remote/README.md",
+    "local_memory/runtime/heartbeat_stdout.json",
     "local_memory/runtime/notion_readback.json",
     "local_memory/runtime/notion_receipts16.json",
     "local_memory/tests/__pycache__/test_context_efficiency.cpython-314.pyc",
